@@ -1,0 +1,410 @@
+
+<html>
+<head>
+	<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+	<title>MOSH</title>
+
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src="js/jquery-1.11.3.js"></script>
+	<link href='https://fonts.googleapis.com/css?family=Lobster+Two:700italic' rel='stylesheet' type='text/css' media="screen">
+	<!-- Custom CSS -->
+	<script src="js/jquery.min.js"></script>
+	<link href="css/style.css" rel="stylesheet">
+	<link href='https://fonts.googleapis.com/css?family=Lobster+Two:700italic' rel='stylesheet' type='text/css' media="screen">
+	<!-- Custom CSS -->
+	<link href="css/bootstrap.css" rel="stylesheet" media="screen">
+	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
+	<link href="css/half-slider.css" rel="stylesheet" media="screen">
+	<link href="css/zeus.css" rel="stylesheet" type='text/css' media="screen">
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+
+	<title>Menu</title>
+	
+	<link rel="stylesheet" href="css/swiper.min.css" media="screen">
+<style>
+		html, body {
+			position: relative;
+			height: 100%;
+		}
+
+		body {
+			background: #eee;
+			font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+			font-size: 12px;
+			color:#000;
+			margin: 0;
+			padding: 0;
+			max-width:100%;
+		}
+		.swiper-container {
+			width: 100%;
+			height: 200px;
+		}
+		.swiper-slide {
+			background-position: center;
+			background-size: cover;
+
+		}
+		.swiper-wrapper{
+			/*padding-top: 50px;*/
+		}
+		a{
+			text-decoration: none !important;
+		}
+		a:hover, a:focus, a:active{
+			text-decoration: none !important;
+			color: #92c740;
+		}
+
+	
+		.greenbar
+		{
+			width: 100% !important;
+			position: fixed !important;
+		}
+		.button__badge 
+		{
+			background-color: #fa3e3e;
+			border-radius: 50%;
+			color: white;
+			padding-top:3px;
+			font-size: 13px;
+			position: absolute; /* Position the badge within the relatively positioned button */
+			top: -10;
+			right: -10;
+			width: 20px;
+			height: 20px;
+			font-family: 'lobster two' !important;
+
+		}
+		.greenbar
+		{
+		width: 100% !important;
+		position: fixed !important;
+	}
+	@media screen and (max-width: 20%;) {
+    	nav#header h3
+    	{
+        	position: absolute !important;left: 35px;
+    	}
+	}
+	.ui-widget-header
+	{
+		background-color:#92c740;
+	}
+	</style>
+</head>
+
+<body style="background: #fff;">
+	<nav id="header" class="navbar navbar-fixed-top whiteHeader">
+    	<div id="myGoBack">
+
+	            <span id='spanBackContainer'>
+	              	<!--<span-->
+				</span>
+
+	    </div>
+	     <center>
+	       <div class="container">
+	            <center>
+	              <h3 style="font-family: 'lobster two' !important;">Main Menu </h3>
+	            </center>
+	        </div>
+		 </center>
+     </nav>
+<center>
+<div class="invi" style="margin-top: 55px;"></div>
+	<div class="swiper-container" style="margin-top: 55px;">
+		<div class="swiper-pagination swiper-pagination-black" style="margin-top: 170px;text-align: center;"></div>
+		
+	<div class="swiper-wrapper">
+		
+		<div class="swiper-slide" style="width:100%;background-image:url('images/banner mobile app.jpg')"></div>
+		<div class="swiper-slide" style="width:100%;background-image:url('images/DSC_0654.jpg')"></div>
+		<div class="swiper-slide" style="width:100%;background-image:url('images/DSC_0539.jpg')"></div>
+		<!-- <div class="swiper-slide" style="width:100%;background-image:url('admin/ads/kkbanner.jpg')"></div> -->
+		<div class="swiper-slide" style="width:100%;background-image:url('images/DSC_0647.jpg')"></div>
+		<!-- Add Pagination -->
+		
+	
+			
+		
+		
+		<!-- Add Arrows -->
+		<div class="swiper-button-next swiper-button-white"></div>
+		<div class="swiper-button-prev swiper-button-white"></div>
+	</div>
+		
+	<script src="js/swiper.min.js"></script>
+	<script>
+
+		var swiper = new Swiper('.swiper-container', {
+			pagination: '.swiper-pagination',
+			paginationClickable: true,
+			nextButton: '.swiper-button-next',
+			prevButton: '.swiper-button-prev',
+			spaceBetween: 30,
+			autoplay:'5000',
+			effect: 'slide'
+		});
+	</script>
+	</div>
+	<div id="myMsg" class="modal fade" role="dialog"  data-backdrop="static" data-keyboard="false">
+		<div class="modal-dialog" style="margin-top: 50%;">
+			<div class="modal-content" id='modal-content-1'>
+				<div class="modal-header" style="background-color: #92c740;color:#fff;">
+					<a style="margin-top:0px;float:right;min-height:auto px;text-align:center;text-decoration:none;" class="" data-dismiss="modal">
+						<i class="glyphicon glyphicon-remove" style="text-align:right; height:40px;width:40px;font-size:40px; border:0px;"></i>
+					</a>
+					<h2 style="font-family: lobster two !important;" class="modal-title">Contact Us!</h2>
+				</div>
+				<div class="modal-body">
+					<div id="msg" style="text-align: center;font-size: 20px;">Please select how you want to connect with us.</div>
+
+				</div>
+				<div class="modal-footer">
+					<center>
+						<a href='ClientHelp.php' class="send btn btn-md btn-success" style="width: 40%;">Chat</a>
+						<a class="send btn btn-md btn-success" onclick="ShowContent2();" style="width: 40%;">Email</a>
+					</center>
+				</div>
+			</div>
+
+			<div class="modal-content" id='modal-content-2' style="display: none;">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h4 class="modal-title"><center>Contact Us</center></h4>
+				</div>
+				<div class="modal-body">
+					<center>
+						<a class="send btn btn-md btn-default" href="mailto:info@lay-bare.com" data-toggle='dismiss' style="width: 90%;margin-bottom: 10px;">General Concern</a>
+						<a class="send btn btn-md btn-default" href="mailto:marketing@lay-bare.com" data-toggle='dismiss' style="width: 90%;margin-bottom: 10px;">Marketing Concern</a>
+						<a class="send btn btn-md btn-default" href="mailto:franchising@lay-bare.com" data-toggle='dismiss' style="width: 90%;margin-bottom: 10px;">Franchising Concern</a>
+						<a class="send btn btn-md btn-default" href="mailto:customercare@lay-bare.com" data-toggle='dismiss' style="width: 90%;">Customer Service</a>
+					</center>
+				</div>
+				<div class="modal-footer">
+					<center>
+						<a  class="send btn btn-md btn-success" onclick="ShowContent1();" style="width: 40%;">Back</a>
+						<a  class="send btn btn-md btn-success" data-dismiss="modal" style="width: 40%;">Close</a>
+					</center>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="PLCModal" class="modal fade" role="dialog">
+		<div class="modal-dialog" style="margin-top: 50%;">
+			<div class="modal-content" id='modal-content-1'>
+				<div class="modal-header" style="background-color: #92c740;color:#fff;">
+					<a style="margin-top:0px;float:right;min-height:auto px;text-align:center;text-decoration:none;" class="" data-dismiss="modal">
+						<i class="glyphicon glyphicon-remove" style="text-align:right; height:40px;width:40px;font-size:40px; border:0px;"></i>
+					</a>
+					<h2 style="font-family: lobster two !important;" class="modal-title">Notice!</h2>
+				</div>
+				<div class="modal-body">
+					<div id="msg" style="text-align: center;">Congratulations you are qualified to apply for Premier Loyalty Card! Press OK to Proceed!</div>
+
+				</div>
+				<div class="modal-footer">
+					<center>
+						<a href='plcreg.php' class="send btn btn-md btn-success" style="width: 40%;">OK</a>
+						<a class="send btn btn-md btn-success" data-dismiss="modal" style="width: 40%;">Close</a>
+					</center>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="under_modal" class="modal fade" role="dialog">
+		<div class="modal-dialog" style="margin-top: 50%;">
+			<div class="modal-content" id='modal-content-1'>
+				<div class="modal-header" style="background-color: #92c740;color:#fff;">
+					<a style="margin-top:0px;float:right;min-height:auto px;text-align:center;text-decoration:none;" class="" data-dismiss="modal">
+						<i class="glyphicon glyphicon-remove" style="text-align:right; height:40px;width:40px;font-size:40px; border:0px;"></i>
+					</a>
+					<h2 style="font-family: lobster two !important;" class="modal-title">Notice!</h2>
+				</div>
+				<div class="modal-body">
+					<div id="msg" style="text-align: center;font-size: 20px;">
+						This feature is under maintenance. Please try again later.
+					</div>
+
+				</div>
+				<div class="modal-footer">
+					<center>
+						<a data-dismiss="modal" class="send btn btn-md btn-success" style="width: 40%;">OK</a>
+						<!-- <a class="send btn btn-md btn-success" data-dismiss="modal" style="width: 40%;">Close</a> -->
+					</center>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="verify_modal" class="modal fade" role="dialog" >
+		<div class="modal-dialog" style="margin-top: 50%;">
+			<div class="modal-content" id='modal-content-1'>
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal">&times;</button>
+					<h3 class="modal-title"><center>NOTICE!!</center></h3>
+				</div>
+				<div class="modal-body">
+					<div id="msg" style="text-align:left;">
+						It seems that your account is incomplete. Please complete your profile.
+					</div>
+				</div>
+				<div class="modal-footer">
+					<center>
+						<a href="ClientProfile.php?clients=yes" class="send btn btn-md btn-success" style="width: 40%;">OK</a>
+						
+					</center>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div id="loadModal" class="modal fade" role="dialog" data-backdrop="static" data-keyboard="false">
+		<div class="modal-dialog" style="margin-top: 50%;">
+			<center>
+				<!--<img src="images/load.gif" style="width: 30px;height:30px;margin-top: 50%;transition: transform 400ms ease;">-->
+			</center>
+		</div>
+	</div>
+
+
+	<!-- icons -->
+	<center>
+	 <!--<div  style="left:0px; z-index:999;position: fixed; height: 100%; bottom:0; float:left; right:0px; top: 0px; text-align:center; background:url('images/load.gif') no-repeat center center #fff;background-size: 23px 23px; font-family:arial; font-size:12pt; font-weight:bold;margin-left:20px; min-height:40px; padding: 0px;margin:0px;transition: transform 400ms ease;" id='divShowLoading' ></div>-->
+  <script type="text/javascript">
+    $(document).ready(function(){
+
+  })
+  </script>
+		<div class="container">
+			<div class="firstrow row">
+				<!--Regular -->
+				<a href="appointmentbranches.php" class="link">
+					<div class="box col-xs-4" style="width:35%;">
+						<img class="icon" src="images/booking.png" alt="Booking"> 
+						Appointment
+					</div>
+				</a>
+				<a href="products.php" class="link">
+					<div class="box col-xs-4" style="width:35%;">
+						<img class="icon" src="images/products.png" alt="Products"> 
+						Products
+					</div>
+				</a>
+				<a href="services.php" class="link">
+					<div class="box col-xs-4" style="width:30%;">
+						<img class="icon" src="images/services.png" alt="Services"> 
+						Services
+					</div>
+				</a>
+			</div>
+			<div class="firstrow row">
+				<a href="queuebranches.php" class="link">
+					<div class="box col-xs-4" style="width:35%;">
+						<img class="icon" src="images/about-us.png" alt="Queuing"> 
+						Queuing
+					</div>
+				</a>
+				<a href="ClientProfile.php" class="link">
+					<div class="box col-xs-4" style="width:35%;">
+						<img class="icon" src="images/profile.png" alt="Profile"> 
+						Profile
+					</div>
+				</a>
+				<a href="promotions.php" class="link">
+					<div class="box col-xs-4" style="width:30%;">
+						<img class="icon" src="images/promos.png" alt="Promos"> 
+						Promotions
+					</div>
+				</a>
+			</div>
+			<div class="firstrow row">
+				<a href="location.php" class="link">
+					<div class="box col-xs-4" style="width:35%;">
+						<img class="icon" src="images/location.png" alt="Location"> 
+						Location
+					</div>
+				</a>
+				<!--Contact us -->
+				<a onclick="showContact()">
+					<div class="box col-xs-4" style="width:35%;">
+						<img class="icon" src="images/contact-us.png" alt="Contact us">
+						Contact Us
+					</div>
+				</a>
+				
+				<a href="testimonials.php" class="link">
+					<div class="box col-xs-4" style="width:35%;">
+						<img class="icon" src="images/testimonials.png" alt="Post"> 
+						Post
+					</div>
+				</a>
+				</div>
+			<div class="firstrow row">
+				<!--under maintenance-->
+				<a data-toggle="modal" data-target="#under_modal">
+					<div class="box col-xs-4" style="width:35%;">
+						<img class="icon" src="images/radio.png" alt="Radio">
+						Radio
+					</div>
+				</a>
+				<a href="faq_landing.php" class="link">
+					<div class="box col-xs-4" style="width:35%;">
+						<img class="icon" src="images/faq.png" alt="FAQ"> 
+						FAQ
+					</div>
+				</a>
+			</div>
+
+
+	</div>
+
+
+
+</div>
+</center>
+
+<script type="text/javascript">
+	function ShowContent2(){
+		$('#modal-content-1').hide();
+		$('#modal-content-2').show();
+	}
+	function showContact()
+	{
+		$("#myMsg").modal("show");
+	}
+	function ShowContent1(){
+		$('#modal-content-2').hide();
+		$('#modal-content-1').show();
+	}
+	
+	
+
+	$(document).ready(function(){
+		
+	})
+	$('.link').on('click',function(){
+		$('#loadModal').modal('show')
+	})
+
+</script>
+</body>  
+<style type="text/css">
+	.box.col-xs-4:hover, .box.col-xs-4:active, .box.col-xs-4:focus{
+		background: #DCF9AF;
+	}
+	.box.col-xs-4{
+		color: #92c740;
+	}
+
+	.greenbar{
+		position: relative !important;
+	}
+</style>
+
+</html>
+

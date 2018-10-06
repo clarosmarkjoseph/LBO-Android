@@ -1,7 +1,10 @@
+<<<<<<< HEAD
 
 # Created by https://www.gitignore.io/api/android
 
 ### Android ###
+=======
+>>>>>>> origin/master
 # Built application files
 *.apk
 *.ap_
@@ -67,9 +70,12 @@ fastlane/Preview.html
 fastlane/screenshots
 fastlane/test_output
 fastlane/readme.md
+<<<<<<< HEAD
 
 ### Android Patch ###
 gen-external-apklibs
 
 
 # End of https://www.gitignore.io/api/android
+=======
+>>>>>>> origin/master

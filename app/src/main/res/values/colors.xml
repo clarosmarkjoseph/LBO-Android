@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFA500</color>
+    <color name="colorPrimaryDark">#ffffff</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="themeGray">#ff8A9199</color>
+    <color name="themeLightGray">#ffeaeaea</color>
+    <color name="themeDarkGray">#ff3f434b</color>
+    <color name="themeRed">#cc292b</color>
+    <color name="themeBlack">#000000</color>
+    <color name="themeBlue">#ff002E63</color>
+    <color name="themeWhite">#ffffffff</color>
+    <color name="buttonNormal">@color/themeGray</color>
+    <color name="buttonPressed">@color/themeBlue</color>
+    <color name="laybareGreen">#92c740</color>
+    <color name="laybarePink">#BD6DAC</color>
+    <color name="brownLoading">#774101</color>
+    <color name="superBrown">#633803</color>
+    <color name="superGreen">#9ad839</color>
+
+    <color name="a_info">#72a7cf</color>
+    <color name="a_success">#71c341</color>
+    <color name="a_error">#e74c3c</color>
+    <color name="transparent">#00000000</color>
+    <color name="caution">#ffbe00</color>
+    <color name="colorStar">#F9BB28</color>
+
+    <color name="menu_green_personal_calendar">#1bbc9b</color>
+    <color name="menu_appointment">#32c5d2</color>
+    <color name="menu_branch_locator">#8e44ad</color>
+    <color name="menu_plc">#f4d03f</color>
+    <color name="menu_egift">#e35b5a</color>
+    <color name="menu_promo">#67805a</color>
+    <color name="menu_testimonials">#c8d046</color>
+    <color name="menu_faq">#1ba39c</color>
+    <color name="laybareInfo">#5bc0de</color>
+
+    <!--<color name="transparent"></color>-->
+    <!--<color name="laybareGreen">#92c740</color>-->
+</resources>
+

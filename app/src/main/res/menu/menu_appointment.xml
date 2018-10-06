@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="Appointment History"
+        android:icon="@drawable/a_history"
+        android:id="@+id/myAppointmentHistory"
+        >
+    </item>
+    <item
+        android:title="Refresh Calendar"
+        android:icon="@drawable/a_comment"
+        android:id="@+id/myRefresh"
+        >
+    </item>
+</menu>

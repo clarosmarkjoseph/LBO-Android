@@ -1,0 +1,75 @@
+nav#header{
+	background: #92c740 !important;
+	height: 55px !important;
+	margin-bottom: 0px !important;
+	font-family: 'lobster two' !important;
+
+}
+
+nav#header h3{
+	font-size: 36px !important;
+    color: #fff;
+    margin-top: 10px !important;
+    margin-bottom: 0px !important;
+    font-family: 'lobster two' !important;
+    font-style: italic !important;
+    margin-left: -14px;
+    width: 90%;
+    float: left;
+}
+
+nav#header #spanBackContainer{
+	width: 50px !important;
+    height: 55px !important;
+    float: left !important;
+    text-align: center !important;
+}
+
+nav#header #spanBack{
+	font-size: 25px !important;
+    color: #fff;
+    position: absolute !important;
+    top: 17px !important;
+    left: 13px !important;
+}
+
+nav#header #spanRightButtonContainer{
+    width: 50px !important;
+    height: 55px !important;
+    float: left !important;
+    text-align: center !important;
+}
+
+nav#header #spanRightButton{
+    font-size: 25px !important;
+    color: #fff;
+    position: absolute !important;
+    top: 17px !important;
+    right: 13px !important;
+}
+
+nav#header span#spanBack:hover, nav#header span#spanBack:active, nav#header span#spanBack:focus, nav#header span#spanBack:link, nav#header span#spanBack:visited{
+    /*color:#06FF06 !important;*/
+    text-decoration:none !important;
+}
+
+nav#header span#spanRightButton:hover, nav#header span#spanRightButton:active, nav#header span#spanRightButton:focus, nav#header span#spanRightButton:link, nav#header span#spanRightButton:visited{
+    /*color:#06FF06 !important;*/
+    text-decoration:none !important;
+}
+
+nav#header a:hover, nav#header a:active, nav#header a:focus, nav#header a:link, nav#header a:visited{
+    /*color:#06FF06;*/
+    text-decoration:none !important;
+}
+
+
+nav#header span#spanBack,nav#header #spanRightButton{
+    text-decoration:none !important;
+}
+
+nav#header #spanBackContainer:hover, nav#header #spanBackContainer:active, nav#header #spanBackContainer:focus{
+    background: #7CB820;
+    /*color:#06FF06 !important;*/
+    text-decoration:none !important;
+}

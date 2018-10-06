@@ -1,0 +1,212 @@
+<resources xmlns:android="http://schemas.android.com/tools">
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+
+        <item name="android:label">Lay Bare PH</item>
+        <item name="colorAccent">@color/brownLoading</item>
+        <item name="colorPrimary">@color/laybareGreen</item>
+        <item name="colorPrimaryDark">@color/themeBlack</item>
+    </style>
+
+    <style name="myCustomDialogPicker" parent="@android:style/Theme.Holo.Light.Dialog.MinWidth">
+
+        <item name="android:background">@color/transparent</item>
+        <item name="android:windowBackground">@color/transparent</item>
+        <item name="android:actionModeBackground">@color/brownLoading</item>
+
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="colorAccent">@color/brownLoading</item>
+        <item name="colorPrimary">@color/laybareGreen</item>
+        <item name="colorPrimaryDark">@color/themeBlack</item>
+        <item name="android:icon">@mipmap/ic_launcher</item>
+        <item name="android:label">Lay Bare PH</item>
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTitlePageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+        <!--<item name="android:windowTranslucentStatus">true</item>-->
+        <!--<item name="android:windowTranslucentNavigation">true</item>-->
+    </style>
+    <style name="AppTheme.myToolbar" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="android:color">@color/themeWhite</item>
+        <item name="tabIndicatorColor">@color/brownLoading</item>
+    </style>
+
+    <style name="toolBarCoordination" >
+        <item name="android:textColor">@color/brownLoading</item>
+        <item name="android:tint"> @color/brownLoading</item>
+        <item name="tabIndicatorColor">@color/laybareGreen</item>
+    </style>
+
+    <style name="MyThemeFullScreen" parent="AppTheme.NoActionBar">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+    <style name="greenLoading" parent="ThemeOverlay.AppCompat.Light">
+        <item name="colorAccent">@color/themeLightGray</item>
+    </style>
+
+    <style name="EditTextTheme" parent="Widget.AppCompat.EditText">
+        <item name="colorPrimary">@color/laybareGreen</item>
+        <item name="colorPrimaryDark">@color/superGreen</item>
+        <item name="colorAccent">@color/laybareGreen</item>
+        <item name="colorControlNormal">@color/laybareGreen</item>
+        <item name="colorControlActivated">@color/brownLoading</item>
+        <item name="colorControlHighlight">@color/brownLoading</item>
+    </style>
+
+
+
+    <style name="DialogTheme" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/brownLoading</item>
+    </style>
+
+
+    <style name="MineCustomTabText" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">10sp</item>
+    </style>
+
+    <style name="RadioButton.Brown" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:textColor">@color/brownLoading</item>
+        <item name="buttonTint">@color/brownLoading</item>
+    </style>
+
+    <style name="RadioButton.Green" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:textColor">@color/laybareGreen</item>
+        <item name="buttonTint">@color/laybareGreen</item>
+    </style>
+
+    <style name="btnLaybareGreen">
+        <item name="android:background">@color/laybareGreen</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="colorButtonNormal">@color/laybareGreen</item>
+        <item name="colorControlHighlight">@android:color/holo_green_dark</item>
+        <item name="android:textColor">@color/themeWhite</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+    <style name="btnLaybareInfo" >
+        <item name="android:background">@color/laybareInfo</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="colorButtonNormal">@color/laybareInfo</item>
+        <item name="colorControlHighlight">@color/laybareInfo</item>
+        <item name="android:textColor">@color/themeWhite</item>
+        <item name="android:textSize">18sp</item>
+
+    </style>
+
+
+    <style name="btnLaybareRed">
+        <item name="android:background">@color/themeRed</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="colorButtonNormal">@color/themeRed</item>
+        <item name="colorControlHighlight">@color/themeRed</item>
+        <item name="android:textColor">@color/themeWhite</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+
+
+    <style name="btnLaybareBrown" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/brownLoading</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="colorButtonNormal">@color/brownLoading</item>
+        <item name="colorControlHighlight">@color/superBrown</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/themeWhite</item>
+        <item name="android:height">?attr/actionBarSize</item>
+    </style>
+
+    <style name="btnLaybareTransparent" >
+        <item name="android:background">@color/transparent</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+        <item name="colorButtonNormal">@color/brownLoading</item>
+        <item name="colorControlHighlight">@color/superBrown</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/brownLoading</item>
+        <item name="android:height">?attr/actionBarSize</item>
+
+    </style>
+
+
+    <style name="btnLaybareCancel" >
+        <item name="colorButtonNormal">@color/themeGray</item>
+        <item name="colorControlHighlight">@color/themeDarkGray</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/themeWhite</item>
+        <item name="android:height">?attr/actionBarSize</item>
+        <item name="android:layout_margin">5dp</item>
+    </style>
+
+
+
+
+
+    <style name="txtTextBox" parent="@android:style/Widget.EditText">
+        <item name="android:background">@drawable/txtbox</item>
+        <item name="android:textColor">@color/brownLoading</item>
+        <item name="android:layout_height">?attr/actionBarSize</item>
+    </style>
+
+    <style name="txtTextBoxSearch" parent="@android:style/Widget.EditText">
+        <item name="android:tint">@color/themeWhite</item>
+        <item name="android:background">@color/themeWhite</item>
+        <item name="android:textColor">@color/brownLoading</item>
+        <item name="android:drawableLeft">@drawable/search</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:radius">@dimen/txtRadius</item>
+    </style>
+
+
+    <style name="ExpandedAppBar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/themeWhite</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:gravity">center_horizontal</item>
+        te
+    </style>
+
+    <style name="CollapsedAppBar" parent="@android:style/TextAppearance.Medium">
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@color/themeWhite</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:gravity">center_horizontal</item>
+    </style>
+
+    <!--rating bar-->
+    <style name="RatingBarfeed" parent="android:style/Widget.Material.RatingBar.Small">
+        <item name="colorControlNormal">@color/themeLightGray</item>
+        <item name="colorControlActivated">@color/laybareGreen</item>
+        <item name="android:minHeight">10dp</item>
+        <item name="android:minWidth">10dp</item>
+    </style>
+
+    <style name="RatingBar" parent="android:style/Widget.Material.RatingBar">
+        <item name="colorControlNormal">@color/themeLightGray</item>
+        <item name="colorControlActivated">@color/laybareGreen</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:minWidth">20dp</item>
+    </style>
+
+    <style name="RatingBarWhite" parent="android:style/Widget.Material.RatingBar">
+        <item name="colorControlNormal">@color/themeGray</item>
+        <item name="colorControlActivated">@color/colorStar</item>
+        <item name="android:minHeight">20dp</item>
+        <item name="android:minWidth">20dp</item>
+    </style>
+
+
+
+
+
+
+</resources>

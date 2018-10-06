@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="?attr/actionBarSize"
+        android:background="@color/laybareGreen"
+        android:theme="@style/AppTheme.myToolbar"
+        android:orientation="horizontal"
+        android:weightSum="1.0"
+        >
+
+        <ImageButton
+            android:id="@+id/btnPrev"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_weight="0.4"
+            android:background="?attr/selectableItemBackground"
+            android:scaleType="centerInside"
+            android:src="@drawable/arrow_left"
+            android:tint="@color/themeWhite" />
+
+
+        <TextView
+            android:id="@+id/forTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:text="Waiver Signing"
+            android:textColor="@color/themeWhite"
+            android:textSize="25sp"
+            android:textStyle="normal" />
+
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_weight="0.4"
+            android:background="@color/transparent"
+            android:foreground="?attr/selectableItemBackground"
+            android:text="NEXT" />
+    </LinearLayout>
+
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recyclerWaiver"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="5sp"
+                android:scrollbars="vertical"
+                android:visibility="visible"
+                android:clickable="true"></android.support.v7.widget.RecyclerView>
+
+
+        </LinearLayout>
+
+
+    </android.support.v4.widget.NestedScrollView>
+
+</LinearLayout>

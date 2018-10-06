@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Lay Bare PH</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">1899966743571465</string>
+
+    <string name="title_toolbar">Android Collapsing Toolbar</string>
+    <string name="service_motto">Never miss a thing because its all here! We know you need some pampering, but often times we are looking for a little savings.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="branch_array">
+        <item id="01">SM FAIRVIEW</item>
+        <item id="02">FAIRVIEW TERRACES</item>
+    </string-array>
+
+    <string-array name="gender_array">
+        <item>Female</item>
+        <item>Male</item>
+    </string-array>
+
+    <string-array name="contact_email">
+        <item>General Concern</item>
+        <item>Marketing Concern</item>
+        <item>Franchising Concern</item>
+        <item>Customer Service</item>
+    </string-array>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+
+    <string name="plc1">To qualify for a Premier Loyalty Card, you must have accumulated a minimum of Php 5,000.00 of services availed.</string>
+    <string name="plc2">By applying, you are waiving your Frequency Card and all other benefits earned through the use of the card, whether the new PLC has been received or not.</string>
+    <string name="plc3">Your personal details used in your user registration, which are found in the profile section of your Lay Bare On-line access, will be used to valdiate your branch transaction record. Please review and ensure that these are all valid and current. \n \nThe branch selection below will determine the branch where the Premier Loyalty Card will be delivered. A confirmation message will be sent to your email to acknowledge your application</string>
+    <string name="plc_intro">We are grateful for the pleasure of serving you and meeting your waxing needs. Thank you for showing consistent confidence in our services. \n\nIn this we would like to present to you a small token of gratitude and love. Member of the Premier Loyalty Card will get 10% OFF on all our waxing services for life and get discounts from our partner merchants.</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="termsTitle">Terms &amp; Conditions</string>
+    <string name="termsAgree">I Agree to the terms and Conditions</string>
+    <string name="not_set">Not Set</string>
+    <string name="stringEmptyChatInbox">No new message(s).</string>
+    <string name="stringEmptyChat">No Message\nStart messaging.</string>
+    <string name="app_needs_an_upgrade_for_a_new_feature">App needs an upgrade for a new feature</string>
+
+
+</resources>

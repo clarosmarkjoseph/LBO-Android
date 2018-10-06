@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linearChat"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    android:background="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:focusable="true"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/lblTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="09:30 AM"
+        android:visibility="visible" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linearRecipient"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginRight="50dp"
+            android:orientation="horizontal"
+            android:visibility="gone">
+
+            <ImageView
+                android:id="@+id/imgRecipient"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_horizontal|bottom"
+                android:scaleType="fitXY"
+                android:src="@mipmap/ic_launcher"
+                android:visibility="visible" />
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cardRecipient"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_margin="5dp"
+                android:minWidth="70dp"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="5dp">
+
+                <TextView
+                    android:id="@+id/lblChatRecipientBody"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="6dp"
+                    android:gravity="left"
+                    android:padding="3dp"
+                    android:textColor="@color/themeBlack"
+                    android:textSize="16sp" />
+
+
+            </android.support.v7.widget.CardView>
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linearSender"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cardSender"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right|center_vertical"
+                android:layout_margin="5dp"
+                android:minWidth="70dp"
+                app:cardBackgroundColor="@color/laybareInfo"
+                app:cardCornerRadius="15dp"
+                app:cardElevation="5dp">
+
+                <TextView
+                    android:id="@+id/lblChatSenderBody"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:gravity="left"
+                    android:padding="3dp"
+                    android:text="a"
+                    android:textColor="@color/themeWhite"
+                    android:textSize="16sp" />
+
+
+            </android.support.v7.widget.CardView>
+
+            <ImageButton
+                android:id="@+id/imgViewIfSeen"
+                android:layout_width="10dp"
+                android:layout_height="10dp"
+                android:layout_gravity="right|bottom"
+                android:background="@drawable/circle_small_brown_border_only"
+                android:scaleType="fitCenter"
+                android:visibility="gone" />
+
+
+            <!--<ImageButton-->
+            <!--android:id="@+id/imgViewIfSeen"-->
+            <!--android:layout_width="10dp"-->
+            <!--android:layout_height="10dp"-->
+            <!--android:layout_gravity="right|bottom"-->
+            <!--android:background="@drawable/circle_small_brown"-->
+            <!--android:scaleType="fitCenter"-->
+            <!--android:src="@drawable/check"-->
+            <!--android:visibility="visible" />-->
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

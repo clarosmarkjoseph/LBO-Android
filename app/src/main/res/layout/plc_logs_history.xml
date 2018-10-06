@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <include
+        layout="@layout/toolbar_layout"
+        android:background="@color/transparent"
+        android:titleTextColor="@color/themeWhite" />
+
+
+    <LinearLayout
+        android:id="@+id/linearTab"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tabBarPLC"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_gravity="center"
+            android:background="@color/themeWhite"
+            android:elevation="5sp"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:tabGravity="fill"
+            app:tabIndicatorColor="@color/brownLoading"
+            app:tabIndicatorHeight="2dp"
+            app:tabMaxWidth="0dp"
+            app:tabMode="fixed"
+            app:tabSelectedTextColor="@color/brownLoading"
+            app:tabTextColor="@color/themeGray" />
+
+        <RelativeLayout
+            android:id="@+id/relativeLoader"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ProgressBar
+                style="@style/Widget.AppCompat.ProgressBar"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_centerInParent="true"
+                android:gravity="center"
+                android:indeterminateTint="@color/brownLoading"
+                android:theme="@style/greenLoading" />
+
+        </RelativeLayout>
+
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/viewPager"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        </android.support.v4.view.ViewPager>
+
+    </LinearLayout>
+
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:id="@+id/linearLoading"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:gravity="center"-->
+    <!--android:orientation="vertical">-->
+
+
+    <!--<ProgressBar-->
+    <!--android:id="@+id/progresBar"-->
+    <!--style="@style/Widget.AppCompat.ProgressBar"-->
+    <!--android:layout_width="50dp"-->
+    <!--android:layout_height="50dp"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:foregroundGravity="center"-->
+    <!--android:gravity="center"-->
+    <!--android:indeterminate="true"-->
+    <!--android:indeterminateTint="@color/brownLoading"-->
+    <!--android:indeterminateTintMode="src_atop" />-->
+
+
+    <!--</LinearLayout>-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:id="@+id/linearContent"-->
+    <!--android:visibility="gone"-->
+    <!--android:orientation="vertical">-->
+
+
+    <!--<android.support.v7.widget.CardView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_margin="5dp"-->
+    <!--app:cardCornerRadius="5dp"-->
+    <!--android:minHeight="100dp"-->
+    <!--app:cardElevation="5dp">-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--android:orientation="vertical">-->
+
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginBottom="5dp"-->
+    <!--android:layout_marginLeft="5dp"-->
+    <!--android:layout_marginRight="5dp"-->
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:textSize="17sp"-->
+    <!--android:gravity="left"-->
+    <!--android:text="Premiere Loyalty Card"-->
+    <!--android:textColor="@color/brownLoading"-->
+    <!--android:textStyle="bold" />-->
+
+    <!--<android.support.v7.widget.RecyclerView-->
+    <!--android:id="@+id/recycler_application_logs"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:layout_height="match_parent"-->
+    <!--&gt;-->
+
+    <!--</android.support.v7.widget.RecyclerView>-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/lblEmptyApplication"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:gravity="center"-->
+    <!--android:text="No PLC Application"-->
+    <!--android:textSize="18sp"-->
+    <!--android:textStyle="bold"-->
+    <!--android:visibility="visible" />-->
+
+    <!--</LinearLayout>-->
+
+    <!--</android.support.v7.widget.CardView>-->
+
+    <!--<android.support.v7.widget.CardView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginLeft="5dp"-->
+    <!--android:layout_marginRight="5dp"-->
+    <!--android:layout_marginTop="5dp"-->
+    <!--android:layout_marginBottom="5dp"-->
+    <!--app:cardCornerRadius="5dp"-->
+    <!--android:minHeight="100dp"-->
+    <!--app:cardElevation="5dp">-->
+
+    <!--<LinearLayout-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:orientation="vertical">-->
+
+    <!--<TextView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_marginBottom="5dp"-->
+    <!--android:layout_marginLeft="5dp"-->
+    <!--android:layout_marginRight="5dp"-->
+    <!--android:layout_marginTop="10dp"-->
+    <!--android:textSize="17sp"-->
+    <!--android:gravity="left"-->
+    <!--android:text="Transaction Review Logs"-->
+    <!--android:textColor="@color/brownLoading"-->
+    <!--android:textStyle="bold" />-->
+
+    <!--<android.support.v7.widget.RecyclerView-->
+    <!--android:id="@recycler_plc_logslogs"-->
+    <!--android:layout_marginTop="15dp"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content">-->
+
+    <!--</android.support.v7.widget.RecyclerView>-->
+
+    <!--<TextView-->
+    <!--android:id="@+id/lblEmptyRequest"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_gravity="center"-->
+    <!--android:layout_margin="10dp"-->
+    <!--android:gravity="center"-->
+    <!--android:text="No Transaction Request"-->
+    <!--android:textSize="18sp"-->
+    <!--android:textStyle="bold"-->
+    <!--android:visibility="visible" />-->
+
+
+    <!--</LinearLayout>-->
+
+    <!--</android.support.v7.widget.CardView>-->
+
+    <!--</LinearLayout>-->
+
+
+</LinearLayout>

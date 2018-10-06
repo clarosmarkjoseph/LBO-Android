@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ForgotPassword">
+
+    <!--<item-->
+        <!--android:id="@+id/action_back"-->
+        <!--android:icon="@drawable/ic_arrow_back_black_24dp"-->
+        <!--android:title="Back"-->
+        <!--app:showAsAction="always"-->
+        <!--android:visible="true"-->
+        <!--android:textColor="@color/themeWhite"-->
+        <!--android:layout_gravity="left"-->
+        <!--android:enabled="true" />-->
+
+
+</menu>

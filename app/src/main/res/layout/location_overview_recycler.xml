@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:clickable="true"
+        android:background="?attr/selectableItemBackground">
+
+        <TextView
+            android:id="@+id/lblDescription"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textColor="@color/themeBlack"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/themeLightGray"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:weightSum="1.0"
+        android:clickable="true"
+        android:background="?attr/selectableItemBackground">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:src="@drawable/location"
+            android:scaleType="center"
+            android:tint="@color/brownLoading" />
+
+        <TextView
+            android:id="@+id/lblAddress"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_margin="5dp"
+            android:layout_weight="0.1"
+            />
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/themeLightGray"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:weightSum="1.0"
+        android:clickable="true"
+        android:background="?attr/selectableItemBackground">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:src="@drawable/a_email"
+            android:scaleType="center"
+            android:tint="@color/brownLoading" />
+
+        <TextView
+            android:id="@+id/lblEmail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14sp"
+            android:layout_margin="5dp"
+            android:layout_weight="0.1"
+            />
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/themeLightGray"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:weightSum="1.0"
+        android:clickable="true"
+        android:id="@+id/linear_rowSchedule"
+        android:background="?attr/selectableItemBackground"
+        android:orientation="horizontal">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:src="@drawable/a_clock"
+            android:scaleType="center"
+            android:tint="@color/brownLoading" />
+
+        <LinearLayout
+            android:id="@+id/linear_schedule"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/lblSchedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:background="?attr/selectableItemBackground"
+                android:clickable="false"
+                android:drawableRight="@drawable/arrow_down"
+                android:gravity="top"
+                android:textColor="@color/themeBlack"
+                android:textSize="14sp" />
+
+            <com.github.aakira.expandablelayout.ExpandableRelativeLayout
+                android:id="@+id/expandableLayout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/expandableButton1"
+                app:ael_duration="100"
+                app:ael_expanded="false"
+                app:ael_interpolator="accelerate"
+                app:ael_orientation="vertical">
+
+
+                <LinearLayout
+                    android:id="@+id/linear_sched_data"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_below="@+id/lblDataCaption"
+                    android:layout_marginRight="10dp"
+                    android:weightSum="1.0"
+                    android:orientation="vertical">
+
+                    <!--<TextView-->
+                        <!--android:id="@+id/lblWeek"-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_below="@+id/lblSchedule"-->
+                        <!--android:layout_weight="0.60"-->
+                        <!--android:textColor="@color/themeBlack"-->
+                        <!--android:textSize="14sp"-->
+                        <!--android:visibility="visible" />-->
+
+                    <!--<TextView-->
+                        <!--android:id="@+id/lblTime"-->
+                        <!--android:layout_width="match_parent"-->
+                        <!--android:layout_height="wrap_content"-->
+                        <!--android:layout_below="@+id/lblSchedule"-->
+                        <!--android:layout_weight="0.40"-->
+                        <!--android:textColor="@color/themeBlack"-->
+                        <!--android:textSize="14sp"-->
+                        <!--android:visibility="visible" />-->
+                </LinearLayout>
+
+
+
+            </com.github.aakira.expandablelayout.ExpandableRelativeLayout>
+
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/themeLightGray"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:weightSum="1.0"
+        android:clickable="true"
+        android:background="?attr/selectableItemBackground"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:src="@drawable/a_call"
+            android:scaleType="center"
+            android:tint="@color/brownLoading" />
+
+        <TextView
+            android:id="@+id/lblContact"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="0.1"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/themeLightGray"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:weightSum="1.0">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:scaleType="center"
+            android:src="@drawable/a_person"
+            android:tint="@color/brownLoading" />
+
+        <TextView
+            android:id="@+id/lblContactPerson"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="0.1"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/themeLightGray"/>
+
+    <LinearLayout
+        android:id="@+id/linear_payment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:weightSum="1.0">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:scaleType="center"
+            android:src="@drawable/a_payment"
+            android:tint="@color/brownLoading" />
+
+        <TextView
+            android:id="@+id/lblPayment"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="0.1"
+            android:textSize="14sp" />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/themeLightGray"/>
+
+    <LinearLayout
+        android:id="@+id/linear_web"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="?attr/selectableItemBackground"
+        android:clickable="true"
+        android:weightSum="1.0">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.9"
+            android:scaleType="center"
+            android:src="@drawable/a_web"
+            android:tint="@color/brownLoading" />
+
+        <TextView
+            android:id="@+id/lblWeb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:layout_weight="0.1"
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/themeLightGray"/>
+
+
+
+</LinearLayout>

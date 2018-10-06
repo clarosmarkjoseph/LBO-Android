@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btnTime"
+    android:layout_width="match_parent"
+    android:layout_height="50sp"
+    android:layout_margin="5dp"
+    android:background="@drawable/btn_laybare_brown_border_only"
+    android:clickable="true"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackground"
+    android:text="10:00 AM"
+    android:textColor="@color/brownLoading" />
