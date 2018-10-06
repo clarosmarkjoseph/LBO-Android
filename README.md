@@ -1,2 +1,2 @@
-# LayBare-Kiosk
-This is the official Branch Kiosk of Lay Bare
+# LayBare-Android
+This is the official Android app of Lay Bare
