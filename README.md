@@ -1,2 +1,2 @@
-# LayBare-Android
-This is the official Android app of Lay Bare
+# LBO-Android
+This is the official Android app of LBO
