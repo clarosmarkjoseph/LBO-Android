@@ -1,0 +1,1466 @@
+[
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/a_layout_progressbar.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/a_layout_progressbar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_service_adapter.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_service_adapter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_activity_adapter.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_activity_adapter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_profile.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/client_profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/tabs_main_menu_quick.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/tabs_main_menu_quick.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_transaction.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/client_transaction.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_transaction_details.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/client_transaction_details.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/service_product.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/service_product.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/faq_recycler_questions.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/faq_recycler_questions.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_transaction_details_recycler.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/client_transaction_details_recycler.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.36.1/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_preview_card.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/plc_preview_card.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_appointment_step4.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_appointment_step4.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_profile_cardview.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/client_profile_cardview.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_ongoing_appointment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_ongoing_appointment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/prelogin.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/prelogin.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_center.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/notification_center.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.33.0/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/booking_service_toolbar.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/booking_service_toolbar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.33.0/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/main_menu.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/main_menu.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/terms1.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/terms1.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_product.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_product.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_preview_card_adapter.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/plc_preview_card_adapter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_edit_profile.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/client_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_transaction_details.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/client_transaction_details.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/service_products.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/service_products.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/premier_client.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/premier_client.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/option_select_listview.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/option_select_listview.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_details.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/notification_details.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_booking_info.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_booking_info.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/appointment_form.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/appointment_form.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_plc_application.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_plc_application.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/option_select.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/option_select.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/prelogin.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/prelogin.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/time_selection.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/time_selection.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/main_menu.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/main_menu.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_appointment_preview.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_appointment_preview.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/newlogin.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/newlogin.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/drawer_navigation_header.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/drawer_navigation_header.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_text_input_password_icon.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_boss_record.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_boss_record.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_application_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/plc_application_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.33.0/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_appointment_preview.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_appointment_preview.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_overview_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/location_overview_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/navigation_drawer_activity.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/navigation_drawer_activity.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/branch_selection.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/branch_selection.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_home_adapter_carousel.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_home_adapter_carousel.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/technician_selection.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/technician_selection.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_transaction_details_recycler.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/client_transaction_details_recycler.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_appointment_step1.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_appointment_step1.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_dialog.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/location_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_appointment_step4.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_appointment_step4.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_recycler.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/location_recycler.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_total_transaction.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_total_transaction.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-login/4.36.1/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_overview_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/location_overview_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.36.1/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_dialog.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/popup_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.36.1/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/appointment_history.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/appointment_history.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/faq_recycler_menu.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/faq_recycler_menu.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_branch_review.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_branch_review.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/pager_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/pager_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/appointment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/appointment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/faq_recycler_menu.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/faq_recycler_menu.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/appointment.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/appointment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/option_select.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/option_select.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_chat_message.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_chat_message.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/branch_selection_adapter.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/branch_selection_adapter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/register.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/register.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/toolbar_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/toolbar_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_total_transaction.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_total_transaction.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/tooltip.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/activity_main.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/toolbar_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/toolbar_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_logs_history.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/plc_logs_history.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_search.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/location_search.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/a_popup.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/a_popup.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/splashscreen.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/appointment_form.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/appointment_form.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_queuing.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_queuing.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/login.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/tabs_main_menu_profile.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/tabs_main_menu_profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_maps.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/location_maps.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_index.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/location_index.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/transaction_appointment_alert_dialog.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/transaction_appointment_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/tabs_main_menu_home.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/tabs_main_menu_home.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_selection.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_selection.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/modal_terms.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/modal_terms.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/forgot_password.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/forgot_password.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_application.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/plc_application.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_transaction_logs.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_transaction_logs.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/terms1.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/terms1.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_activity_adapter.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_activity_adapter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_preview_logs.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/plc_preview_logs.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/tabs_main_menu_home.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/tabs_main_menu_home.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/promotion_recycler.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/promotion_recycler.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/content_main.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_profile.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/branch_location.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/branch_location.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.33.0/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_details.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/location_details.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_preview_card_adapter.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/plc_preview_card_adapter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_index.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/location_index.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/queuing.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/queuing.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/transaction_appointment_alert_dialog.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/transaction_appointment_alert_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.36.1/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_loading.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/popup_loading.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_review.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/location_review.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_selection.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/popup_selection.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/pager_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/pager_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_application_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/plc_application_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_product.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_product.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_review_logs.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_review_logs.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_notification.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_notification.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_serve_queuing.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_serve_queuing.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/service_products.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/service_products.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.33.0/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/drawer_navigation_header.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/drawer_navigation_header.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/technician_selection.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/technician_selection.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_transaction.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/client_transaction.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_navigation.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_navigation.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.33.0/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/commercial.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/commercial.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/promotions.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/promotions.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/login.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_maps.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/location_maps.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/faq_question.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/faq_question.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_profile.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/client_profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/premier_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/premier_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/chat_inbox.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/chat_inbox.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.33.0/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_preview_card.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/plc_preview_card.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_service.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_service.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/a_no_internet.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/a_no_internet.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_plc_logs.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_plc_logs.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/service_product.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/service_product.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_profile.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/appointment_preview.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/appointment_preview.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/ip_settings.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/ip_settings.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_boss_record.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_boss_record.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/faq.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/faq.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_branch_review.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_branch_review.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_appointment_step3.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_appointment_step3.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_details.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/notification_details.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_selection.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/popup_selection.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/service_package_product.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/service_package_product.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/appointment_history.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/appointment_history.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/chat_message.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/chat_message.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_center.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/notification_center.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_dialog.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/location_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/ip_settings.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/ip_settings.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_profile_cardview.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/client_profile_cardview.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/branch_selection_adapter.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/branch_selection_adapter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_request.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/plc_request.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/option_select_listview.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/option_select_listview.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_appointment_step1.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_appointment_step1.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_recycler.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/location_recycler.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/chat_inbox.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/chat_inbox.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.36.1/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/faq_question.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/faq_question.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/a_layout_progressbar.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/a_layout_progressbar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/commercial.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/commercial.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_review.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/popup_review.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/booking_service_toolbar.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/booking_service_toolbar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/branch_selection.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/branch_selection.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/transactions.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/transactions.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_details.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/location_details.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/tabs_listview_profile.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/tabs_listview_profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/faq_recycler_questions.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/faq_recycler_questions.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/item_details.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/item_details.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/card_waiver_details.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/card_waiver_details.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/tabs_main_menu_quick.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/tabs_main_menu_quick.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/register.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/register.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_chat.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_chat.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_search.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/location_search.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/card_waiver_details.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/card_waiver_details.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/tabs_listview_profile.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/tabs_listview_profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/premier_client.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/premier_client.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_booking_info.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_booking_info.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_serve_queuing.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_serve_queuing.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_review_logs.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_review_logs.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_terms.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/popup_terms.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.33.0/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/tooltip.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/tooltip.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_queuing.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_queuing.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.36.1/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.36.1/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-compat/27.0.2/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/branch_location.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/branch_location.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.33.0/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/a_no_internet.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/a_no_internet.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/a_popup.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/a_popup.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_loading.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/popup_loading.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_transaction_logs.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_transaction_logs.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_waiver.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/popup_waiver.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/newlogin.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/newlogin.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_review.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/location_review.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/transactions.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/transactions.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/content_main.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_selection.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_selection.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_appointment_step2.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_appointment_step2.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/navigation_drawer_activity.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/navigation_drawer_activity.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/branch_review.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/branch_review.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.33.0/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_appointment_step3.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_appointment_step3.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/my_toolbar.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/my_toolbar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_text_input_password_icon.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_appointment.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_appointment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.36.1/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/client_edit_profile.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/client_edit_profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_waiver.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/popup_waiver.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/chat_message.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/chat_message.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_appointment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_appointment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/appointment_preview.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/appointment_preview.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/item_details.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/item_details.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_ongoing_appointment.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_ongoing_appointment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/splashscreen.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/faq.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/faq.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_home_adapter_carousel.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_home_adapter_carousel.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/modal_terms.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/modal_terms.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_service_adapter.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/fragment_service_adapter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_navigation.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_navigation.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.36.1/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_chat_message.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_chat_message.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-messenger/4.33.0/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/promotion_recycler.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/promotion_recycler.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/tabs_main_menu_profile.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/tabs_main_menu_profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_preview_logs.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/plc_preview_logs.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_notification.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_notification.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/service_package_product.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/service_package_product.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_review.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/popup_review.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/time_selection.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/time_selection.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/promotions.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/promotions.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_request.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/plc_request.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_navigation_button.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/recycler_navigation_button.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/queuing.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/queuing.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.36.1/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_overview_recycler.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/location_overview_recycler.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_chat.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_chat.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_service.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_service.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/branch_review.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/branch_review.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/forgot_password.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/forgot_password.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/plc_application.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/plc_application.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/my_toolbar.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/my_toolbar.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/recycler_navigation_button.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/layout/recycler_navigation_button.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/fragment_appointment_step2.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/fragment_appointment_step2.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/27.0.2/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/location_overview_recycler.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/location_overview_recycler.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_terms.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/popup_terms.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/layout/popup_dialog.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/layout/popup_dialog.xml"
+    }
+]

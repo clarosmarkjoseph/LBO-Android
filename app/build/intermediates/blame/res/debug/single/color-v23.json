@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_default.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_btn_checkable.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_switch_track.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_borderless_text_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_spinner.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\design_tint_password_toggle.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\color-v23\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_seek_thumb.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_tint_edittext.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_color_highlight_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\color-v23\\abc_btn_colored_text_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    }
+]

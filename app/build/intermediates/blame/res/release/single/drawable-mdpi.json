@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_promo_tag.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_promo_tag.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_card_option.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_card_option.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/back_brown.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/back_brown.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/ic_chevron_left_black_24dp.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/ic_chevron_left_black_24dp.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_web.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_web.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_current_location_line.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_current_location_line.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_promo_tag.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_promo_tag.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_clock.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_clock.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/nonselectable.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/nonselectable.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_info.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_info.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/check.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/check.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_card.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_card.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_mail.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_mail.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_comment.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_comment.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_notifications.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_notifications.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_upload.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_upload.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_heart_default.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_heart_default.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_send.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_send.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/check.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/check.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_comment.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_comment.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_person.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_person.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_close.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_close.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/dot.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/dot.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_upload.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_upload.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/save.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/save.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_direction.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_direction.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_book.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_book.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/clock.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/clock.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher_background.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/clock.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/clock.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_refresh.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_refresh.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/right.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/right.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_web.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_web.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/arrow_up.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/arrow_up.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_card_option.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_card_option.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/back_brown.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/back_brown.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/profile.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/save.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/save.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/ic_chevron_left_black_24dp.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/ic_chevron_left_black_24dp.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_waiver.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_waiver.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_send.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_send.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_history.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_history.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/arrow_left.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/arrow_left.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/arrow_right.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/arrow_right.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/arrow_right.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_ongoing.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_ongoing.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/arrow_left.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/arrow_left.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_payment.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_payment.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_cake_bday.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_cake_bday.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/edit.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/edit.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/subtract.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/subtract.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_cart.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_cart.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_my_location.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_my_location.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_call.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_call.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/go.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/go.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/location.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/location.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/arrow_up.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/arrow_up.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/my_activity.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/my_activity.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/arrow_down.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/arrow_down.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/dot.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/dot.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_refresh.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_refresh.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/arrow_down.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/arrow_down.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_waiver.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_waiver.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_transaction.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_transaction.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_clock.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_clock.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/search.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/search.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_direction.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_direction.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/camera.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/camera.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_heart_heart.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_heart_heart.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_current_position.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_current_position.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_list.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_list.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_current_position.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_current_position.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher_background.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_email.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_email.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_exclamation.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_exclamation.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_heart_default.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_heart_default.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/whats_new.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/whats_new.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_cart.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_cart.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/selectable.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/selectable.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_message.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_message.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/subtract.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/subtract.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_notifications.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_notifications.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_card.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_card.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_mail.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_mail.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_email.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_email.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/add.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/add.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_payment.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_payment.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_remove.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_remove.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_exclamation.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_exclamation.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_info.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_info.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/location.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/location.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/circle_divider.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/circle_divider.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/selectable.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/selectable.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_filter.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_filter.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/add.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/add.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/send.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/send.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/back.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_book.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_book.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/my_activity.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/my_activity.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/right.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/right.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/nonselectable.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/nonselectable.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_settings.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_settings.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/go.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/go.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/back.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/back.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_heart_heart.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_heart_heart.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_call.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_call.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/send.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/send.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_remove.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_remove.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_current_location_line.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_current_location_line.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_settings.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_settings.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_share_to_social_media.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_share_to_social_media.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_cake_bday.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_cake_bday.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_ongoing.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_ongoing.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/profile.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/profile.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_message.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_message.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_history.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_history.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/whats_new.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/whats_new.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/edit.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/edit.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_my_location.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_my_location.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_transaction.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_transaction.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_list.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_list.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_share_to_social_media.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_share_to_social_media.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_filter.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_filter.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_close.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_close.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/camera.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/camera.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/circle_divider.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/circle_divider.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/a_person.png",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/a_person.png"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-mdpi/search.png",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-mdpi/search.png"
+    }
+]

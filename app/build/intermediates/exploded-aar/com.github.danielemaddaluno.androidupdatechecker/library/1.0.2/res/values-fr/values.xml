@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/madx/Documents/Workspace/Android-Update-Checker/library/src/main/res/values-fr/strings.xml -->
+    <eat-comment/>
+    <string name="last_update_test_preferences">Last_Update_Check</string>
+    <string name="loading">Chargement en cours…</string>
+    <string name="no">NON</string>
+    <string name="ok">OK</string>
+    <string name="please_wait">Attendez, s\'il vous plaît</string>
+    <string name="update_test">Vérification des mises à jour…</string>
+    <string name="yes">OUI</string>
+    <string name="you_are_not_updated_message">Appuyez sur OUI pour mettre à jour l\'application sur Google Play, appuyez sur NON pour quitter.</string>
+    <string name="you_are_not_updated_title">L\'application n\'est pas mise à jour</string>
+    <string name="you_are_updated_message">Votre application est déjà mise à jour à la dernière version disponible.\nAppuyez sur OK pour quitter.</string>
+    <string name="you_are_updated_title">L\'application est déjà à jour</string>
+</resources>

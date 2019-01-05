@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="What's New"
+        android:icon="@drawable/whats_new"
+        android:id="@+id/whats_new"
+        ></item>
+    <item
+        android:title="My Activity"
+        android:icon="@drawable/my_activity"
+        android:id="@+id/my_activity"
+        ></item>
+    <item
+        android:title="My Profile"
+        android:icon="@drawable/profile"
+        android:id="@+id/my_profile"
+        ></item>
+
+</menu>

@@ -1,0 +1,134 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:map="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:name="com.google.android.gms.maps.SupportMapFragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+    <include layout="@layout/toolbar_layout"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <fragment
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context="com.system.mobile.lay_bare.Location.LocationMap" />
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginLeft="5dp"
+            map:cardElevation="5dp"
+            android:id="@+id/cardView">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:weightSum="1.0"
+                android:layout_margin="5dp"
+                android:padding="5dp"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="0.4"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:clickable="true"
+
+                    >
+
+                    <EditText
+                        android:id="@+id/txtSearchBranch"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:background="@drawable/textbox_only_bottom"
+                        android:drawableLeft="@drawable/a_list"
+                        android:drawableTint="@color/brownLoading"
+                        android:focusable="false"
+                        android:gravity="center_vertical"
+                        android:hint="Search Branch"
+                        android:padding="5dp"
+                        android:textColor="@color/brownLoading"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:layout_weight="0.4"
+                    android:background="?attr/selectableItemBackground"
+                    android:clickable="true"
+
+                    >
+
+                    <EditText
+                        android:id="@+id/txtFilterBy"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:background="@drawable/textbox_only_bottom"
+                        android:drawableLeft="@drawable/a_filter"
+                        android:drawableTint="@color/brownLoading"
+                        android:focusable="false"
+                        android:gravity="center_vertical"
+                        android:hint="Filter by: "
+                        android:padding="5dp"
+                        android:textColor="@color/brownLoading"
+                        android:textSize="18sp" />
+                </LinearLayout>
+
+
+
+            </LinearLayout>
+        </android.support.v7.widget.CardView>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="right|bottom"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_marginBottom="120dp"
+            >
+
+
+            <android.support.design.widget.FloatingActionButton
+                android:id="@+id/fabTargetLocation"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentEnd="true"
+                android:layout_gravity="bottom|right"
+                android:layout_marginBottom="10dp"
+                android:layout_marginEnd="10dp"
+                android:gravity="bottom|right"
+                android:src="@drawable/a_current_location_line"
+                android:tint="@color/themeWhite"
+                app:backgroundTint="@color/laybareGreen"
+                app:background="@color/laybareGreen"
+                app:fabSize="normal">
+
+            </android.support.design.widget.FloatingActionButton>
+
+
+
+
+
+        </LinearLayout>
+
+
+
+
+    </RelativeLayout>
+
+
+</LinearLayout>

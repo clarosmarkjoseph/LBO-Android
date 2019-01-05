@@ -1,0 +1,1934 @@
+[
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_blue.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_red.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_red.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_logout.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_logout.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_promo.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_promo.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_red_border_only.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_red_border_only.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-share\\4.33.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.33.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\no_image.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_laybare_brown_border_only.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\btn_laybare_brown_border_only.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_badge.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_badge.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-login\\4.37.0\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_yellow.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_yellow.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_laybare_brown_border_only.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\btn_laybare_brown_border_only.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.37.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\custom_progress.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.37.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\load.gif",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\load.gif"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\male.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\male.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.36.1\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_info.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_info.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.githang\\viewpagerindicator\\2.4.2\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\female.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\female.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_layer.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\img_layer.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_brown_border_only.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_brown_border_only.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_red.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_red.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_products.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_products.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\focused_pressed.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\focused_pressed.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_products.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_products.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.37.0\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.githang\\viewpagerindicator\\2.4.2\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_transparent.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_transparent.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox_border_gray.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox_border_gray.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.33.0\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.gif",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\loading.gif"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\female.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\female.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_promocode.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_promocode.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_contact.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_contact.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_home.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_home.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_profile.gif",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\default_profile.gif"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_faq.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_faq.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_question_mark.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_question_mark.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_blue.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.36.1\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\custom_progress.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txtbox.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txtbox.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_green.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_green.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.36.1\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.33.0\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageview_circle.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\imageview_circle.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_male.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_male.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.37.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_badge.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_badge.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox_only_bottom.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox_only_bottom.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected_dot.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\selected_dot.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox_brown.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox_brown.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_dot.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\default_dot.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_home.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_home.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_green.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_green.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_circle.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\ripple_circle.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_promotions.jpg",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\sample_promotions.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.36.1\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txtbox.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txtbox.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.gif",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\loading.gif"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_green.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_green.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z_icon_info.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\z_icon_info.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.33.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_question_mark.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_question_mark.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_customer.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_customer.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_circle_for_image.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_circle_for_image.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_dialog.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_green.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_green.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_circle_for_image.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_circle_for_image.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_appointment.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_appointment.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_female.jpg",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_female.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_branch.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_branch.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\female.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\female.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_promocode.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_promocode.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_booking.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_booking.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_branch.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_branch.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected_dot.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\selected_dot.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_circle.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\ripple_circle.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_location.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_location.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-login\\4.33.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.36.1\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_male.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_male.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-share\\4.33.0\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_promo.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_promo.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.gif",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\loading.gif"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_home.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_home.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.jpg",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\no_image.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\custom_progress.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.36.1\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_profile.gif",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\default_profile.gif"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\male.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\male.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_brown.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_brown.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.37.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_faq.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_faq.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preloader.gif",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\preloader.gif"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_badge.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_badge.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_contact.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_contact.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_female.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_female.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_yellow.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_yellow.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.36.1\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_giftbox.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_giftbox.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_border_radius.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_border_radius.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_red.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_red.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_male.jpg",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_male.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_logout.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_logout.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_female_back.jpg",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_female_back.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_profile.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\no_profile.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_red.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_red.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_pointer.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_pointer.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round_corner.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\button_round_corner.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_design.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\progress_design.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.33.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.37.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_yellow.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_yellow.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preloader.gif",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\preloader.gif"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_focused.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txt_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox_border_gray.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox_border_gray.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_female.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_female.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.33.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_location.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_location.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_brown.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_brown.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_red.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_red.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_promotions.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\sample_promotions.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.36.1\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_no_internet.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_no_internet.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-login\\4.36.1\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_testimonials.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_testimonials.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_new.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_new.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_location.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_location.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_brown_border_only.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_brown_border_only.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox_only_bottom.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox_only_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_btn.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\border_btn.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_laybare_brown_border_only.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\btn_laybare_brown_border_only.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.36.1\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-share\\4.36.1\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_only_np_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\border_only_np_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_faq.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_faq.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selected_dot.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\selected_dot.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_front.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_front.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_no_internet.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_no_internet.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z_icon_info.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\z_icon_info.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_pointer.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_pointer.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ripple_circle.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\ripple_circle.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.33.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_only_np_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\border_only_np_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\focused_pressed.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\focused_pressed.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.33.0\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_missing.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txt_missing.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_btn.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\border_btn.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_testimonials.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_testimonials.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_customer.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_customer.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_pointer.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_pointer.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_transparent.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_transparent.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_red_border_only.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_red_border_only.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.githang\\viewpagerindicator\\2.4.2\\res\\drawable\\vpi__tab_indicator.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z_icon_error.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\z_icon_error.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_laybare_brown_content.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\btn_laybare_brown_content.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_btn.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\border_btn.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-login\\4.37.0\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_cover.jpg",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_cover.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_queuing.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_queuing.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_circle.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\img_circle.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.37.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\male.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\male.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_profile.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\no_profile.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\load.gif",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\load.gif"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\modified_style.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\modified_style.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_profile.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\no_profile.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_normal.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txt_normal.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_services.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_services.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z_icon_error.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\z_icon_error.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_logout.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_logout.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_booking.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_booking.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_yellow.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_yellow.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_transparent.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_transparent.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_laybare_brown_content.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\btn_laybare_brown_content.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_blue.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_blue.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_only_np_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\border_only_np_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox_border_gray.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox_border_gray.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z_icon_info.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\z_icon_info.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_tech.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_tech.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_yellow.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_yellow.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-login\\4.36.1\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog_bg.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\dialog_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round_corner.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\button_round_corner.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_male_back.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_male_back.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\no_image.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\no_image.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.37.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_missing.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txt_missing.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.33.0\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_front.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_front.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_testimonials.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_testimonials.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-login\\4.36.1\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_dot.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\default_dot.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\focused_pressed.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\focused_pressed.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_booking.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_booking.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox_brown.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox_brown.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_logo.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-login\\4.33.0\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-share\\4.36.1\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_dot.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\default_dot.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_promotions.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\sample_promotions.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_dialog.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_female_back.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_female_back.jpg"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_border_radius.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_border_radius.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.33.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_customer.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_customer.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\modified_style.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\modified_style.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_queuing.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_queuing.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.37.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_giftbox.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_giftbox.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_layer.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\img_layer.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_progress_dialog.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\custom_progress_dialog.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_green.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_green.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\27.0.2\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_circle_for_image.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_circle_for_image.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_male_back.jpg",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_male_back.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_brown_border_only.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_brown_border_only.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_border_radius.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_border_radius.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_cover.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_cover.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_normal.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txt_normal.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_layer.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\img_layer.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_services.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_services.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_design.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\progress_design.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_queuing.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_queuing.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_focused.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txt_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z_icon_success.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\z_icon_success.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_appointment.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_appointment.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_question_mark.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_question_mark.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z_icon_success.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\z_icon_success.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_missing.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txt_missing.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_no_internet.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_no_internet.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.37.0\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_info.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_info.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_services.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_services.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_female_back.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_female_back.jpg"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_profile.gif",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\default_profile.gif"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_calendar.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_calendar.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_focused.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txt_focused.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_calendar.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_calendar.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-common\\4.37.0\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-share\\4.37.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_green.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_green.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_front.jpg",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_front.jpg"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_new.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_new.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-share\\4.37.0\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_design.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\progress_design.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_info.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_info.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\modified_style.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\modified_style.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\close.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\close.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_new.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_new.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\load.gif",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\load.gif"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.33.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_red_border_only.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_red_border_only.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_cover.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_cover.jpg"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\button_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_round_corner.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\button_round_corner.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z_icon_error.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\z_icon_error.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_circle.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\img_circle.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-login\\4.33.0\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dialog.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\dialog.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_brown.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_brown.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_selector.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\tab_selector.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox_only_bottom.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox_only_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_yellow.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_yellow.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_small_red.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\circle_small_red.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_promo.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_promo.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_products.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_products.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageview_circle.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\imageview_circle.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_tech.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_tech.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_laybare_brown_content.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\btn_laybare_brown_content.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_circle.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\img_circle.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\preloader.gif",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\preloader.gif"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_appointment.png",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_appointment.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.36.1\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_giftbox.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_giftbox.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txt_normal.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txt_normal.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_contact.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_contact.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\z_icon_success.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\z_icon_success.png"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-login\\4.37.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\11.2.2\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\textbox_brown.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\textbox_brown.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\txtbox.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\txtbox.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_calendar.png",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\a_calendar.png"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-messenger\\4.36.1\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\imageview_circle.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\imageview_circle.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\plc_male_back.jpg",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\drawable\\plc_male_back.jpg"
+    }
+]

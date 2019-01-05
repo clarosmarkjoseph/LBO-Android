@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/linear_splashscreen"
+    android:background="@color/laybareGreen"
+    android:weightSum="1">
+
+
+    <LinearLayout
+        android:id="@+id/linear_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="visible">
+
+        <ImageView
+            android:id="@+id/imgsplash"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="100dp"
+            android:gravity="center"
+            android:src="@drawable/app_logo" android:contentDescription="TODO" />
+
+        <!--<ProgressBar-->
+        <!--android:id="@+id/splash_progress"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:layout_centerVertical="true"-->
+        <!--android:layout_centerInParent="true"-->
+        <!--style="@style/Widget.AppCompat.ProgressBar"-->
+        <!--android:layout_height="40dp"-->
+        <!--android:layout_width="40dp"-->
+        <!--android:theme="@style/greenLoading"-->
+        <!--android:progressDrawable="@drawable/load"-->
+        <!--android:layout_gravity="center"-->
+        <!--android:indeterminateTint="@color/brownLoading"-->
+        <!--android:indeterminateTintMode="multiply"-->
+        <!--android:visibility="gone"-->
+        <!--android:progressBackgroundTintMode="@color/themeWhite"-->
+        <!--android:layout_below="@+id/imgsplash"-->
+        <!--android:layout_weight="0.06" />-->
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear_upgrade"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/app_needs_an_upgrade_for_a_new_feature"
+            android:textColor="@color/themeWhite"
+            android:textSize="17sp" />
+
+        <Button
+            android:id="@+id/btnUpgradeApp"
+            style="@style/btnLaybareBrown"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:text="Update Lay Bare App" />
+
+    </LinearLayout>
+
+    <include layout="@layout/a_no_internet"/>
+
+
+
+
+
+</LinearLayout>

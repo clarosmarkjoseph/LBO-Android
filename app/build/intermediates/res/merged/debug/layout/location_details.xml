@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:orientation="vertical">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/myAppBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contextClickable="true"
+        android:fitsSystemWindows="true">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/collapse_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:fitsSystemWindows="true"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_collapseMode="parallax">
+
+                <android.support.v4.view.ViewPager
+                    android:id="@+id/viewpager_branch_image"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:visibility="visible"
+                    app:layout_collapseMode="parallax"></android.support.v4.view.ViewPager>
+
+                <LinearLayout
+                    android:id="@+id/viewPagerCountDots"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/viewpager_branch_image"
+                    android:layout_marginTop="-40dp"
+                    android:background="@color/transparent"
+                    android:gravity="center_horizontal"
+                    android:orientation="horizontal" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/viewPagerCountDots"
+                    android:layout_marginTop="10dp"
+                    android:background="@color/laybareGreen"
+                    android:orientation="vertical"
+                    android:visibility="visible"
+                    app:layout_collapseMode="pin">
+
+                    <TextView
+                        android:id="@+id/lblBranchName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/viewPagerCountDots"
+                        android:layout_gravity="center_vertical"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center_vertical"
+                        android:textColor="@color/themeWhite"
+                        android:textSize="22dp"
+                        android:textStyle="bold" />
+
+                    <LinearLayout
+                        android:id="@+id/linearRating"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginBottom="5dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:gravity="left"
+                        android:orientation="horizontal"
+                        android:weightSum="1.0">
+
+                        <TextView
+                            android:id="@+id/lblAverageReview"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center_vertical"
+                            android:gravity="center_vertical"
+                            android:text="3.5"
+                            android:layout_marginRight="5dp"
+                            android:textColor="@color/themeWhite"
+                            android:textSize="18dp"
+                            android:textStyle="bold" />
+
+
+                        <RatingBar
+                            android:id="@+id/ratingBarReview"
+                            style="@android:style/Widget.Holo.Light.RatingBar.Small"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:clickable="false"
+                            android:numStars="5"
+                            android:padding="0dp"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginLeft="5dp"
+                            android:progressBackgroundTint="@color/themeGray"
+                            android:progressTint="@color/colorStar"
+                            android:rating="0"
+                            android:stepSize="0.1" />
+
+
+                        <TextView
+                            android:id="@+id/lblCountReview"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="left|center_vertical"
+                            android:gravity="left|center_vertical"
+                            android:text="0 review"
+                            android:layout_marginRight="5dp"
+                            android:layout_marginLeft="5dp"
+                            android:textColor="@color/themeWhite"
+                            android:textSize="18dp" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+            </RelativeLayout>
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/myToolbar"
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                android:background="@color/transparent"
+                android:titleTextColor="@color/themeWhite"
+                app:layout_collapseMode="parallax"
+
+                app:titleTextColor="@color/themeWhite">
+
+            </android.support.v7.widget.Toolbar>
+
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+
+        <android.support.design.widget.TabLayout
+            android:id="@+id/tabBranchOptions"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_gravity="center"
+            android:background="@color/themeWhite"
+            android:elevation="5sp"
+            android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+            app:tabGravity="fill"
+            app:tabIndicatorColor="@color/brownLoading"
+            app:tabIndicatorHeight="2dp"
+            app:tabMaxWidth="0dp"
+            app:tabMode="fixed"
+            app:tabSelectedTextColor="@color/brownLoading"
+            app:tabTextColor="@color/themeGray" />
+
+
+    </android.support.design.widget.AppBarLayout>
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager_branch_fragments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    </android.support.v4.view.ViewPager>
+
+
+</android.support.design.widget.CoordinatorLayout>
+
+

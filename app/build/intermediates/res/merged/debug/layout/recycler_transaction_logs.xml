@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linear_recycler"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:background="?attr/selectableItemBackground"
+    android:clickable="true"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:weightSum="1.0">
+
+       <LinearLayout
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           android:layout_weight="0.3"
+           >
+           <TextView
+               android:id="@+id/lblDate"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_weight="0.5"
+               android:textColor="@color/brownLoading"
+               android:layout_margin="5dp"
+               android:text="10/06/2015"
+               android:textStyle="bold"
+               android:textSize="16sp"/>
+
+           <TextView
+               android:id="@+id/lblBranch"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_margin="5dp"
+               android:textColor="@color/brownLoading"
+               android:text="Market! Market!"
+               android:textStyle="italic"
+               android:textSize="15sp" />
+       </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:layout_weight="0.70"
+            android:orientation="horizontal"
+            android:weightSum="1.0">
+
+            <TextView
+                android:id="@+id/lblTotalPrice"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="0.2"
+                android:textColor="@color/brownLoading"
+                android:drawableTint="@color/themeGray"
+                android:gravity="left|center"
+                android:text="₱ 1,500.00"
+                android:textSize="14sp" />
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.8"
+                android:tint="@color/themeGray"
+                android:src="@drawable/right" />
+
+
+        </LinearLayout>
+
+
+
+
+    </LinearLayout>
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2sp"
+        android:background="@color/themeLightGray">
+
+    </View>
+
+
+</LinearLayout>
+

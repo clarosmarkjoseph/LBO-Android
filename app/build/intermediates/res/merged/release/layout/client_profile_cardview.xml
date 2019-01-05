@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <RelativeLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:id="@+id/relative_clientprofile"
+        android:layout_centerVertical="true"
+        android:paddingTop="10dp"
+        android:background="@color/themeWhite">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Full Name"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/lblProfile_Title"
+            android:textColor="@color/laybareGreen"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Mark Joseph Claros"
+            android:id="@+id/lblProfile_Content"
+            android:textColor="@color/themeBlack"
+            android:layout_alignStart="@id/lblProfile_Title"
+            android:layout_below="@+id/lblProfile_Title"
+            android:layout_marginTop="5dp"
+            />
+
+        <!--<ImageView-->
+            <!--android:layout_width="30dp"-->
+            <!--android:layout_height="30dp"-->
+            <!--android:src="@drawable/right"-->
+            <!--android:layout_marginEnd="15dp"-->
+            <!--android:id="@+id/imageView6"-->
+            <!--android:layout_centerVertical="true"-->
+            <!--android:layout_alignParentEnd="true"-->
+           <!--/>-->
+
+
+    </RelativeLayout>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+
+    >
+
+    <LinearLayout
+        android:id="@+id/relative_details"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear_border"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linear_title"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+            android:background="@color/laybareGreen"
+            android:orientation="horizontal"
+            android:weightSum="1.0">
+
+            <TextView
+                android:id="@+id/lblItemName"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.2"
+                android:text="Package 1 "
+                android:textColor="@color/themeWhite"
+                android:textStyle="italic"
+                android:gravity="center_vertical"
+                android:textSize="20sp"
+                android:padding="10sp"
+                />
+
+            <Button
+                android:id="@+id/btnCancel"
+                style="@style/Widget.AppCompat.Button.Borderless"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.8"
+                android:text="X"
+                android:textColor="@color/themeWhite"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_image"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linear_title"
+            android:layout_marginTop="5sp"
+            android:weightSum="1.0"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="150sp">
+
+                <ImageView
+                    android:id="@+id/img_data"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignParentTop="true"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/app_logo" />
+            </RelativeLayout>
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:id="@+id/linear_status"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linear_title"
+            android:layout_margin="10sp"
+            android:layout_marginTop="5sp"
+            android:weightSum="1.0">
+
+            <TextView
+                android:id="@+id/textView22"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:text="Status"
+                android:textStyle="bold|italic" />
+
+
+            <TextView
+                android:id="@+id/lblStatus"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:background="@drawable/circle_blue"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="Reserved"
+                android:textColor="@color/themeWhite"
+                android:textSize="17sp"
+                android:textStyle="italic" />
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/linear_2"
+            android:background="@color/themeLightGray" />
+
+        <LinearLayout
+            android:id="@+id/linear_service"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linear_status"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/linear_duration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10sp"
+                android:layout_marginTop="5sp"
+                android:weightSum="1.0">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Duration"
+                    android:textStyle="bold|italic" />
+
+                <TextView
+                    android:id="@+id/lblDuration"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:textStyle="italic" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@+id/linear_2"
+                android:background="@color/themeLightGray" />
+
+            <LinearLayout
+                android:id="@+id/linear_time_booked"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10sp"
+                android:layout_marginTop="5sp"
+                android:weightSum="1.0">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Time Booked"
+                    android:textStyle="bold|italic" />
+
+                <TextView
+                    android:id="@+id/lblTimeBooked"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:textStyle="italic" />
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@+id/linear_2"
+                android:background="@color/themeLightGray" />
+
+
+            <LinearLayout
+                android:id="@+id/linear_served_time"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linear_border2"
+                android:layout_margin="10sp"
+                android:layout_marginTop="5sp"
+                android:orientation="horizontal"
+                android:visibility="gone"
+                android:weightSum="1.0">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Time Served"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/lblServedTime"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:textStyle="italic" />
+            </LinearLayout>
+
+            <View
+
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@+id/linear_2"
+                android:background="@color/themeLightGray" />
+
+            <LinearLayout
+                android:id="@+id/linear_reason"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linear_border2"
+                android:layout_margin="10sp"
+                android:layout_marginTop="5sp"
+                android:orientation="horizontal"
+                android:visibility="gone"
+                android:weightSum="1.0">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Reason"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/lblReason"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:textStyle="italic" />
+            </LinearLayout>
+
+            <View
+                android:id="@+id/linear_border3"
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@+id/linear_served_time"
+                android:background="@color/themeLightGray" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/linear_items"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linear_status"
+            android:orientation="vertical"
+            android:visibility="gone">
+
+            <LinearLayout
+                android:id="@+id/linear_variant"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linear_border2"
+                android:layout_margin="10sp"
+                android:layout_marginTop="5sp"
+                android:orientation="horizontal"
+                android:weightSum="1.0">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Product Variant"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/lblVariant"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:textStyle="italic" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@+id/linear_2"
+                android:background="@color/themeLightGray" />
+
+            <LinearLayout
+                android:id="@+id/linear_size"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/linear_border2"
+                android:layout_margin="10sp"
+                android:layout_marginTop="5sp"
+                android:orientation="horizontal"
+                android:visibility="visible"
+                android:weightSum="1.0">
+
+                <TextView
+                    android:id="@+id/textView21"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Product Size"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/lblSize"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:textStyle="italic" />
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_below="@+id/linear_served_time"
+                android:background="@color/themeLightGray" />
+
+            <LinearLayout
+                android:id="@+id/linear_quantity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10sp"
+                android:layout_marginTop="5sp"
+                android:weightSum="1.0">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Quantity"
+                    android:textStyle="bold|italic" />
+
+                <TextView
+                    android:id="@+id/lblQuantity"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:textStyle="italic" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/linear_itemPrice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10sp"
+                android:layout_marginTop="5sp"
+                android:weightSum="1.0">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:text="Product Price"
+                    android:textStyle="bold|italic" />
+
+                <TextView
+                    android:id="@+id/lblProductPrice"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="0.5"
+                    android:textStyle="italic" />
+
+            </LinearLayout>
+
+
+
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/linear_2"
+            android:background="@color/themeLightGray" />
+
+        <LinearLayout
+            android:id="@+id/linear_price"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linear_status"
+            android:layout_margin="10sp"
+            android:layout_marginTop="5sp"
+            android:visibility="gone"
+            android:weightSum="1.0">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.5"
+                android:text="Subtotal"
+                android:textStyle="bold|italic" />
+
+            <TextView
+                android:id="@+id/lblTotalPrice"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.5"
+                android:gravity="left"
+                android:textColor="@color/themeGray"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="2dp"
+            android:layout_below="@+id/linear_2"
+            android:background="@color/themeLightGray" />
+
+        <LinearLayout
+            android:id="@+id/linear_btnCancel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/linear_status"
+            android:layout_margin="10sp"
+            android:layout_marginTop="5sp"
+            android:weightSum="1.0">
+
+            <Button
+                android:id="@+id/btnCancelItem"
+                android:layout_width="match_parent"
+                android:layout_height="45sp"
+                android:layout_weight="1.0"
+                android:background="@color/themeRed"
+                android:text="Cancel this item"
+                android:textColor="@color/themeWhite"
+                android:textSize="17sp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+</LinearLayout>

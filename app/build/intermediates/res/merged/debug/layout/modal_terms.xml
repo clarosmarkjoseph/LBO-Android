@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+        android:id="@+id/relative_terms"
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:maxWidth="100dp"
+        android:orientation="vertical"
+        android:minHeight="450dp">
+
+
+    <ScrollView
+        android:id="@+id/scrollTerms"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="40dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+           >
+            <TextView
+                android:layout_marginTop="20dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:textColor="@color/themeBlack"
+                android:textStyle="bold"
+                android:text="TERMS AND CONDITIONS"
+                android:id="@+id/title1"/>
+
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:gravity="center|left"
+                android:textColor="@color/themeBlack"
+                android:text="This app is property of Lay Bare Waxing Philippines, Inc. You may not modify, alter, copy, download, re-publish, re-display, transfer, or distribute in any manner whatsoever any content found in this app. However, you may download any of the content herein for purely personal purposes only."
+                android:id="@+id/textView8" />
+
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/themeBlack"
+                android:text="AUTHORITY TO PUBLISH"
+                android:id="@+id/textView7" />
+
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:gravity="center|left"
+                android:textColor="@color/themeBlack"
+                android:text="Any message you publish in the site gives Lay Bare Waxing Philippines, Inc. the authority, without any compensation, to copy, use, display, or transmit the information contained therein to the public.PRIVACY of Lay Bare Waxing Philippines, Inc. undertakes to respect the privacy of users and shall maintain the confidentiality of your email address and private messages"
+                android:id="@+id/textView9" />
+
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                android:gravity="center"
+                android:textStyle="bold"
+                android:textColor="@color/themeBlack"
+                android:text="NO WARRANTIES"
+                android:id="@+id/textView10" />
+
+            <TextView
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="15dp"
+                android:gravity="center|left"
+                android:textColor="@color/themeBlack"
+                android:text="While Lay Bare Waxing Philippines, Inc. makes diligent effort to protect the confidentiality and privacy of users, it does not guarantee full protection thereof; hence, cannot be held liable for damages sustained by any party arising out of or in connection with the use of the mobile app."
+                android:id="@+id/textView11" />
+
+            <CheckBox
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginBottom="20dp"
+                android:text="I agree to the terms and conditions"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/chkAgree" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/laytbtns"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-40dp"
+        android:layout_below="@+id/scrollTerms" >
+        <Button
+            android:id="@+id/btnAgree"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_weight="1"
+            android:textColor="@color/themeWhite"
+            android:background="@color/laybareGreen"
+            android:text="Continue"/>
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:background="@color/themeRed"
+            android:textColor="@color/cardview_light_background" />
+    </LinearLayout>
+
+
+
+</RelativeLayout>

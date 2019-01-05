@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/madx/Documents/Workspace/Android-Update-Checker/library/src/main/res/values-ro/strings.xml -->
+    <eat-comment/>
+    <string name="last_update_test_preferences">Last_Update_Check</string>
+    <string name="loading">Se încarcă…</string>
+    <string name="no">NO</string>
+    <string name="ok">OK</string>
+    <string name="please_wait">Vă rugăm să așteptați</string>
+    <string name="update_test">Verificare pentru actualizări…</string>
+    <string name="yes">DA</string>
+    <string name="you_are_not_updated_message">Apăsați DA pentru a actualiza aplicația pe Google Play, apăsați pe NO pentru a ieși.</string>
+    <string name="you_are_not_updated_title">Aplicația nu este actualizată</string>
+    <string name="you_are_updated_message">Cererea dumneavoastră este deja actualizată la cea mai recentă versiune disponibilă.\nApăsați OK pentru a ieși.</string>
+    <string name="you_are_updated_title">Aplicatia este deja actualizată</string>
+</resources>

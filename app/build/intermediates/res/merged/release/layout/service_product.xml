@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:id="@+id/service_product"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/myToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="54dp"
+        android:background="@color/laybareGreen"
+        android:theme="@style/AppTheme.myToolbar"
+        android:layout_gravity="center" >
+
+        <TextView
+            android:id="@+id/forTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="italic"
+            android:layout_weight="5"
+            android:text="Services &amp; Products"
+            android:gravity="center"
+            android:textColor="@color/themeWhite"
+            android:layout_gravity="center"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:textSize="30dp" />
+    </android.support.v7.widget.Toolbar>
+
+
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/service_product_pager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/tab_layout"
+      />
+
+    <android.support.design.widget.TabLayout
+        android:id="@+id/tab_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/laybareGreen"
+        android:elevation="6dp"
+        android:minHeight="?attr/actionBarSize"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+        android:layout_below="@+id/myToolbar"
+        android:layout_alignParentStart="true"
+        app:tabIndicatorColor="@color/brownLoading"
+        app:tabIndicatorHeight="2dp"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="My Activities">
+       <menu>
+
+           <item android:id="@+id/myAppointment" android:background="?attr/selectableItemBackground" android:title="My appointments" android:icon="@drawable/a_calendar"></item>
+           <item android:id="@+id/myTransaction" android:background="?attr/selectableItemBackground" android:title="My Transaction" android:icon="@drawable/a_transaction"></item>
+           <item
+               android:id="@+id/myPLC"
+               android:background="?attr/selectableItemBackground"
+               android:icon="@drawable/a_card"
+               android:title="Premiere Loyalty Card"></item>
+       </menu>
+    </item>
+    <item android:title="Other Settings">
+        <menu>
+            <item android:id="@+id/mySettings" android:background="?attr/selectableItemBackground" android:title="App Settings" android:icon="@drawable/a_question_mark"></item>
+            <item android:id="@+id/myContact" android:background="?attr/selectableItemBackground" android:title="Contact us" android:icon="@drawable/a_contact"></item>
+            <item android:id="@+id/myFacebook" android:background="?attr/selectableItemBackground" android:title="Like us on Facebook" android:icon="@drawable/a_testimonials"></item>
+            <item android:id="@+id/myLogout" android:background="?attr/selectableItemBackground" android:title="Log Out" android:icon="@drawable/a_logout"></item>
+        </menu>
+    </item>
+
+</menu>
+

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/toolbar_layout"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+                 <android.support.v7.widget.CardView
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:id="@+id/cardImg"
+                     android:layout_margin="5sp">
+
+                     <RelativeLayout
+                         android:layout_width="match_parent"
+                         android:layout_height="wrap_content">
+
+                         <ImageView
+                             android:id="@+id/imgItem"
+                             android:layout_width="match_parent"
+                             android:layout_height="250dp"
+                             android:layout_weight="1"
+                             android:background="@color/themeWhite"
+                             android:contentDescription="@string/app_name"
+                             android:scaleType="fitXY"
+                             android:src="@drawable/no_image" />
+
+                         <TextView
+                             android:id="@+id/lblName"
+                             android:layout_width="match_parent"
+                             android:layout_height="wrap_content"
+                             android:layout_below="@+id/imgItem"
+                             android:layout_margin="10dp"
+                             android:background="@android:color/transparent"
+                             android:gravity="center_vertical|center"
+                             android:text="Arms"
+                             android:textAlignment="inherit"
+                             android:textAppearance="?android:attr/textAppearanceMedium"
+                             android:textColor="@color/brownLoading"
+                             android:textSize="25sp"
+                             android:textStyle="italic" />
+                     </RelativeLayout>
+                 </android.support.v7.widget.CardView>
+                <android.support.v7.widget.CardView
+                    android:id="@+id/cardView1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:layout_marginTop="5dp"
+                    app:cardElevation="2dp"
+                    android:layout_below="@+id/cardImg">
+
+                    <RelativeLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent">
+
+                        <TextView
+                            android:id="@+id/lblDescription"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="5dp"
+                            android:background="@android:color/transparent"
+                            android:gravity="center_vertical|left"
+                            android:text="Sample desc"
+                            android:textAlignment="inherit"
+                            android:textAppearance="?android:attr/textAppearanceInverse"
+                            android:textColor="@color/brownLoading"
+                            android:textSize="18sp"
+                            android:textStyle="italic" />
+
+                    </RelativeLayout>
+                </android.support.v7.widget.CardView>
+
+                <android.support.v7.widget.CardView
+                    android:id="@+id/cardView6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/cardView1"
+                    android:layout_marginBottom="5dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="3dp"
+                    app:cardElevation="1dp">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:weightSum="1.0">
+
+                            <TextView
+                                android:id="@+id/lblTitle1"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.6"
+                                android:gravity="left"
+                                android:textStyle="bold"
+                                android:text="Product Code:"
+                                android:textSize="15sp" />
+
+                            <TextView
+                                android:id="@+id/lblAnswer1"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.4"
+                                android:gravity="left"
+                                android:textSize="15sp" />
+                        </LinearLayout>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="2dp"
+                            android:background="@color/themeLightGray"
+                            />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:weightSum="1.0">
+
+                            <TextView
+                                android:id="@+id/lblTitle2"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.6"
+                                android:gravity="left"
+                                android:textStyle="bold"
+                                android:text="Product Variant:"
+                                android:textSize="15sp" />
+
+                            <TextView
+                                android:id="@+id/lblAnswer2"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.4"
+                                android:gravity="left"
+                                android:textSize="15sp" />
+                        </LinearLayout>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="2dp"
+                            android:background="@color/themeLightGray"
+                            />
+
+                        <LinearLayout
+                            android:id="@+id/linear_product_size"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:visibility="gone"
+                            android:weightSum="1.0">
+
+                            <TextView
+                                android:id="@+id/lblTitle3"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.6"
+                                android:gravity="left"
+                                android:text="Product Size:"
+                                android:textSize="15sp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/lblAnswer3"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.4"
+                                android:gravity="left"
+                                android:textSize="15sp" />
+                        </LinearLayout>
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="2dp"
+                            android:background="@color/themeLightGray"
+                            />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:weightSum="1.0">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_weight="0.6"
+                                android:gravity="left"
+                                android:textStyle="bold"
+                                android:text="Price:"
+                                android:textSize="15sp" />
+
+                            <TextView
+                                android:id="@+id/lblPrice"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_centerHorizontal="true"
+                                android:layout_weight="0.4"
+                                android:gravity="left"
+                                android:textSize="15sp"
+                                android:textStyle="italic" />
+                        </LinearLayout>
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="2dp"
+                            android:background="@color/themeLightGray"
+                            />
+                    </LinearLayout>
+
+                </android.support.v7.widget.CardView>
+
+            </RelativeLayout>
+        </android.support.v4.widget.NestedScrollView>
+    </RelativeLayout>
+</LinearLayout>

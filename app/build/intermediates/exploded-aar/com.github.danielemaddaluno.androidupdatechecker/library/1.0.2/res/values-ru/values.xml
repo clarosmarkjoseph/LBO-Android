@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/madx/Documents/Workspace/Android-Update-Checker/library/src/main/res/values-ru/strings.xml -->
+    <eat-comment/>
+    <string name="last_update_test_preferences">Last_Update_Check</string>
+    <string name="loading">Загрузка…</string>
+    <string name="no">НЕТ</string>
+    <string name="ok">OK</string>
+    <string name="please_wait">Пожалуйста, подождите</string>
+    <string name="update_test">Проверка обновлений…</string>
+    <string name="yes">ДА</string>
+    <string name="you_are_not_updated_message">Не Нажмите ДА, чтобы обновлять приложения на Google Play, нажмите НЕТ для выхода.</string>
+    <string name="you_are_not_updated_title">Приложение не обновляется</string>
+    <string name="you_are_updated_message">Ваша заявка уже обновлен до последней доступной версии.\nНажмите OK, чтобы выйти.</string>
+    <string name="you_are_updated_title">Приложение уже обновлены</string>
+</resources>

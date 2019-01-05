@@ -1,0 +1,963 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:2:1-393:12
+	package
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:4:5-41
+		INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.ACCESS_GPS
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:8:22-66
+uses-permission#android.permission.ACCESS_ASSISTED_GPS
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:9:5-78
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:9:22-75
+uses-permission#android.permission.INTERNET
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.2.2\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.2.2\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.2.2\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_INTERNAL_STORAGE
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:12:5-80
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.READ
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:14:5-63
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:14:22-60
+uses-permission#android.permission.CAMERA
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:16:5-65
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:16:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:17:5-79
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.2\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.2.2\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.VIBRATE
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:19:22-63
+uses-permission#android.permission.CALL_PHONE
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:21:5-69
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:21:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.MEDIA_CONTENT_CONTROL
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:24:5-80
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:24:22-77
+application
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:29:5-391:19
+MERGED from [com.android.support:design:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\design\26.1.0\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\transition\26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\AndroidManifest.xml:9:5-20
+MERGED from [com.github.danielemaddaluno.androidupdatechecker:library:1.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.github.danielemaddaluno.androidupdatechecker\library\1.0.2\AndroidManifest.xml:26:5-47
+MERGED from [com.facebook.android:facebook-android-sdk:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.37.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-login\4.37.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-share\4.37.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-common\4.37.0\AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-places:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-places\4.37.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-applinks\4.37.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-messenger\4.37.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-marketing\4.37.0\AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:28:5-51:19
+MERGED from [com.android.volley:volley:1.0.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:9:5-20
+MERGED from [com.githang:viewpagerindicator:2.4.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.githang\viewpagerindicator\2.4.2\AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-core:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\11.2.2\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.2\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-messaging:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.2.2\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.2\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-gcm:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.2.2\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.2.2\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.2.2\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.2.2\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.2\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.2.2\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.2.2\AndroidManifest.xml:19:5-21:19
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.prolificinteractive\material-calendarview\1.4.3\AndroidManifest.xml:12:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.2.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.aakira:expandable-layout:1.6.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.github.aakira\expandable-layout\1.6.0\AndroidManifest.xml:12:5-20
+MERGED from [com.microsoft.azure:azure-notifications-handler:1.0.1] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.microsoft.azure\azure-notifications-handler\1.0.1\AndroidManifest.xml:11:5-15:19
+	android:supportsRtl
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from [com.microsoft.azure:azure-notifications-handler:1.0.1] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.microsoft.azure\azure-notifications-handler\1.0.1\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:33:9-54
+	android:allowBackup
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:30:9-35
+	android:icon
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:32:9-43
+		REJECTED from [com.microsoft.azure:azure-notifications-handler:1.0.1] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.microsoft.azure\azure-notifications-handler\1.0.1\AndroidManifest.xml:13:9-45
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:35:9-40
+	tools:replace
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:34:9-37
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:37:9-39:46
+	android:value
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:39:13-43
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:38:13-58
+meta-data#com.google.android.gms.version
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:41:9-42:69
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.2.2\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:42:13-66
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:41:20-65
+meta-data#com.google.android.geo.API_KEY
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:44:9-46:55
+	android:value
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:46:13-52
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:45:13-58
+activity#com.facebook.FacebookActivity
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:48:9-51:48
+MERGED from [com.facebook.android:facebook-common:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-common\4.37.0\AndroidManifest.xml:29:9-32:66
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:51:13-45
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:50:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-common\4.37.0\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:49:13-57
+activity#com.system.mobile.lay_bare.Transactions.Appointment
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:53:9-59:67
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:56:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:59:13-55
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:55:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:58:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:54:13-53
+activity#com.system.mobile.lay_bare.Transactions.AppointmentPreview
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:61:9-66:57
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:64:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:63:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:66:13-54
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:65:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:62:13-60
+activity#com.system.mobile.lay_bare.ForgotPassword
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:67:9-72:63
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:70:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:69:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:72:13-60
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:71:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:68:13-43
+activity#com.system.mobile.lay_bare.Register
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:73:9-78:57
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:75:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:78:13-54
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:77:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:74:13-37
+activity#com.system.mobile.lay_bare.FAQs.FAQ
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:79:9-84:57
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:82:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:81:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:84:13-54
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:83:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:80:13-37
+activity#com.system.mobile.lay_bare.FAQs.FAQuestions
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:85:9-90:57
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:88:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:87:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:90:13-54
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:89:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:86:13-45
+activity#com.system.mobile.lay_bare.NavigationDrawer.NavigationDrawerActivity
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:91:9-96:57
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:94:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:93:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:96:13-54
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:95:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:92:13-70
+activity#com.system.mobile.lay_bare.Queuing.Queuing
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:98:9-103:63
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:101:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:100:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:103:13-60
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:102:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:99:13-44
+activity#com.system.mobile.lay_bare.SplashScreen
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:105:9-114:20
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:107:13-49
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:108:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:106:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:109:13-113:29
+action#android.intent.action.MAIN
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:110:17-69
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:110:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:112:17-77
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:112:27-74
+activity#com.system.mobile.lay_bare.MainActivity
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:116:9-122:67
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:120:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:119:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:122:13-55
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:118:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:121:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:117:13-41
+activity#com.system.mobile.lay_bare.NewLogin
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:123:9-129:68
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:127:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:126:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:128:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:125:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:129:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:124:13-37
+activity#com.system.mobile.lay_bare.IPSettings
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:130:9-133:59
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:132:13-49
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:133:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:131:13-39
+activity#com.system.mobile.lay_bare.Profile.PromotionDetails
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:136:9-142:58
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:140:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:139:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:142:13-55
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:138:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:141:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:137:13-53
+activity#com.system.mobile.lay_bare.Profile.ClientProfile
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:143:9-149:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:147:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:146:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:149:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:145:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:148:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:144:13-50
+activity#com.system.mobile.lay_bare.Profile.ClientEditProfile
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:150:9-156:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:154:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:153:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:156:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:152:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:155:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:151:13-54
+activity#com.system.mobile.lay_bare.Transactions.AppointmentSelection
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:157:9-163:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:160:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:163:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:159:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:162:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:158:13-62
+activity#com.system.mobile.lay_bare.Transactions.AppointmentForm
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:164:9-170:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:168:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:167:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:170:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:166:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:169:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:165:13-57
+activity#com.system.mobile.lay_bare.GeneralActivity.ServicePackageProduct
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:171:9-177:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:175:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:174:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:177:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:173:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:176:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:172:13-66
+activity#com.system.mobile.lay_bare.GeneralActivity.TimeSelection
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:178:9-184:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:182:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:181:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:184:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:180:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:183:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:179:13-58
+activity#com.system.mobile.lay_bare.GeneralActivity.BranchSelection
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:185:9-191:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:189:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:188:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:191:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:187:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:190:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:186:13-60
+activity#com.system.mobile.lay_bare.ItemDetails
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:192:9-198:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:196:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:195:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:198:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:194:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:197:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:193:13-40
+activity#com.system.mobile.lay_bare.GeneralActivity.TechnicianSelection
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:199:9-205:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:203:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:202:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:205:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:201:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:204:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:200:13-64
+activity#com.system.mobile.lay_bare.Promotions
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:206:9-212:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:210:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:209:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:212:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:208:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:211:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:207:13-39
+activity#com.system.mobile.lay_bare.ClientTransactions.ClientTransactions
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:214:9-219:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:217:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:216:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:219:13-54
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:218:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:215:13-66
+activity#com.system.mobile.lay_bare.Transactions.AppointmentHistory
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:221:9-227:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:225:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:224:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:227:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:223:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:226:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:222:13-60
+activity#com.system.mobile.lay_bare.Location.LocationMap
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:231:9-237:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:235:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:233:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:237:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:234:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:236:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:232:13-49
+activity#com.system.mobile.lay_bare.Location.LocationSearch
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:239:9-245:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:243:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:241:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:245:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:242:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:244:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:240:13-52
+activity#com.system.mobile.lay_bare.Location.LocationDetails
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:247:9-253:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:251:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:249:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:253:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:250:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:252:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:248:13-53
+activity#com.system.mobile.lay_bare.Location.LocationIndex
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:255:9-261:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:259:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:257:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:261:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:258:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:260:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:256:13-51
+activity#com.system.mobile.lay_bare.ClientTransactions.ClientTransactionDetails
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:263:9-269:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:267:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:265:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:269:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:266:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:268:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:264:13-72
+activity#com.system.mobile.lay_bare.PLC.PremierClient
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:271:9-277:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:275:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:273:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:277:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:274:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:276:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:272:13-46
+activity#com.system.mobile.lay_bare.PLC.PLCRequests
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:279:9-285:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:283:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:281:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:285:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:282:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:284:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:280:13-44
+activity#com.system.mobile.lay_bare.PLC.PLCPreviewLogs
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:287:9-293:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:291:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:289:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:293:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:290:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:292:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:288:13-47
+activity#com.system.mobile.lay_bare.PLC.PreviewPLCCard
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:295:9-301:66
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:299:13-50
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:297:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:301:13-54
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:298:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:300:13-53
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:296:13-47
+activity#com.system.mobile.lay_bare.ChatMessage.ChatMessage
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:303:9-309:55
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:307:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:306:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:309:13-52
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:305:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:308:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:304:13-52
+activity#com.system.mobile.lay_bare.ChatMessage.ChatInbox
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:311:9-317:58
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:315:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:314:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:317:13-55
+	android:configChanges
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:313:13-59
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:316:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:312:13-50
+activity#com.system.mobile.lay_bare.Location.BranchReview
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:319:9-324:63
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:322:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:321:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:324:13-60
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:323:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:320:13-50
+activity#com.system.mobile.lay_bare.Notifications.NotificationCenter
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:326:9-331:63
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:329:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:328:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:331:13-60
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:330:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:327:13-61
+activity#com.system.mobile.lay_bare.Notifications.NotificationDetails
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:333:9-338:63
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:336:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:335:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:338:13-60
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:337:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:334:13-62
+activity#com.system.mobile.lay_bare.PLC.PLCLogHistory
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:340:9-345:57
+	android:screenOrientation
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:343:13-49
+	android:label
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:342:13-29
+	android:windowSoftInputMode
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:345:13-54
+	android:theme
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:344:13-56
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:341:13-46
+service#com.system.mobile.lay_bare.FirebaseNotification.MyFirebaseInstanceIdService
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:348:9-352:19
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:348:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:349:13-351:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:350:17-80
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:350:25-77
+service#com.system.mobile.lay_bare.FirebaseNotification.MyFirebaseMessagingService
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:356:9-360:19
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:356:18-81
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:357:13-359:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:358:17-78
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:358:25-75
+service#com.system.mobile.lay_bare.FirebaseNotification.RegistrationIntentService
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:362:9-365:19
+	android:exported
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:364:13-37
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:363:13-75
+receiver#com.system.mobile.lay_bare.Notifications.BroadcastReceiverNotification
+ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:368:9-90
+	android:name
+		ADDED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml:368:19-78
+uses-sdk
+INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\design\26.1.0\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\transition\26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.17] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\pl.droidsonroids.gif\android-gif-drawable\1.1.17\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.danielemaddaluno.androidupdatechecker:library:1.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.github.danielemaddaluno.androidupdatechecker\library\1.0.2\AndroidManifest.xml:22:5-24:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.37.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-login\4.37.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-share\4.37.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-common\4.37.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\customtabs\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-places\4.37.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-applinks\4.37.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-messenger\4.37.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-marketing\4.37.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.volley:volley:1.0.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.volley\volley\1.0.0\AndroidManifest.xml:7:5-43
+MERGED from [com.githang:viewpagerindicator:2.4.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.githang\viewpagerindicator\2.4.2\AndroidManifest.xml:7:5-9:41
+MERGED from [cc.cloudist.acplibrary:library:1.2.1] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\cc.cloudist.acplibrary\library\1.2.1\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\11.2.2\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-messaging:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.2.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.2.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.2.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.2.2\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-location:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\11.2.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-base:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.2\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.2.2\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.2.2\AndroidManifest.xml:17:5-43
+MERGED from [com.prolificinteractive:material-calendarview:1.4.3] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.prolificinteractive\material-calendarview\1.4.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:support-v4:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\support-v4\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.3\AndroidManifest.xml:20:5-22:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.2.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.aakira:expandable-layout:1.6.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.github.aakira\expandable-layout\1.6.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.microsoft.azure:notification-hubs-android-sdk:0.4] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.microsoft.azure\notification-hubs-android-sdk\0.4\AndroidManifest.xml:7:5-9:41
+MERGED from [com.microsoft.azure:azure-notifications-handler:1.0.1] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.microsoft.azure\azure-notifications-handler\1.0.1\AndroidManifest.xml:7:5-9:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\design\26.1.0\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml
+		INJECTED from E:\Mobile Development\Lay-Bare Android\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\design\26.1.0\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\transition\26.1.0\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.1.0\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\design\26.1.0\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.android.support\design\26.1.0\AndroidManifest.xml:27:13-51
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-common\4.37.0\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-common\4.37.0\AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-common\4.37.0\AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-common\4.37.0\AndroidManifest.xml:34:19-64
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-marketing\4.37.0\AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-marketing\4.37.0\AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-marketing\4.37.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-marketing\4.37.0\AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:45:13-86
+intent-filter#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.37.0] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.facebook.android\facebook-core\4.37.0\AndroidManifest.xml:48:25-92
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.2\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.2\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\AndroidManifest.xml:33:16-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.2.2\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.2.2\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.2.2\AndroidManifest.xml:23:18-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:22:5-81
+MERGED from [com.google.android.gms:play-services-gcm:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\11.2.2\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\11.2.2\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\AndroidManifest.xml:43:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.2\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.2\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.2\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.2\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.2\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.2.2\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.2.2\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\11.2.2\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.2\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.2\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.2\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.2.2] E:\Mobile Development\Lay-Bare Android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.2\AndroidManifest.xml:19:19-85

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relative_optionSelect">
+
+    <include layout="@layout/toolbar_layout"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/linearOption"
+        android:layout_marginTop="55dp"
+        >
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/a_front"
+            android:scaleType="fitXY"
+            />
+
+    </LinearLayout>
+
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_below="@+id/linearOption"
+            android:layout_marginTop="20dp"
+           >
+
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/list_opt"
+                android:columnWidth="150dp"
+                android:gravity="center"
+                android:foregroundGravity="center"
+                android:horizontalSpacing="10dp"
+                android:stretchMode="spacingWidth"
+                android:verticalSpacing="10dp"
+                android:layout_margin="10dp"
+                android:background="@color/themeWhite"
+                android:visibility="visible"/>
+
+        </RelativeLayout>
+
+
+    <!--</android.support.v4.widget.NestedScrollView>-->
+
+
+
+
+
+</RelativeLayout>

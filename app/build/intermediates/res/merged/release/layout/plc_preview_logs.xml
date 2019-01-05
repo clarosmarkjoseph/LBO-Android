@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <include layout="@layout/toolbar_layout" />
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+     >
+
+        <android.support.v7.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            app:cardElevation="5dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:orientation="horizontal"
+                    android:padding="5dp"
+                    android:weightSum="1.0">
+
+                    <TextView
+                        android:id="@+id/lbl1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.55"
+                        android:text="Topic: "
+                        android:textColor="@color/brownLoading"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/lblAnswer1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.45"
+                        android:text="Transaction Review Request" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:orientation="horizontal"
+                    android:padding="5dp"
+                    android:weightSum="1.0">
+
+                    <TextView
+                        android:id="@+id/lbl2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.55"
+                        android:text="Date Requested: "
+                        android:textColor="@color/brownLoading"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/lblAnswer2"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.45" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:orientation="horizontal"
+                    android:padding="5dp"
+                    android:weightSum="1.0">
+
+                    <TextView
+                        android:id="@+id/lbl3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.55"
+                        android:text="Current Status: "
+                        android:textColor="@color/brownLoading"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/lblAnswer3"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.45"
+                        android:gravity="left|center_vertical"
+                        android:padding="5dp"
+                        android:text=""
+                        android:textColor="@color/brownLoading"
+                        android:textStyle="bold|italic" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:orientation="horizontal"
+                    android:padding="5dp"
+                    android:weightSum="1.0">
+
+                    <TextView
+                        android:id="@+id/lbl4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.55"
+                        android:text="Message: "
+                        android:textColor="@color/brownLoading"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:id="@+id/lblAnswer4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:gravity="center"
+                        android:textColor="@color/themeWhite"
+                        android:layout_weight="0.45" />
+
+
+                </LinearLayout>
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@color/themeLightGray" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:gravity="center"
+                    android:text="Processing Details"
+                    android:textColor="@color/brownLoading"
+                    android:textSize="20dp"
+                    android:textStyle="bold" />
+
+                <View
+                    android:layout_width="match_parent"
+                    android:layout_height="1dp"
+                    android:layout_marginLeft="5dp"
+                    android:layout_marginRight="5dp"
+                    android:background="@color/themeLightGray" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:orientation="horizontal"
+                    android:padding="5dp"
+                    android:weightSum="1.0">
+
+                    <TextView
+                        android:id="@+id/lbl5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.55"
+                        android:text="Date Processed: "
+                        android:textColor="@color/brownLoading"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/lblAnswer5"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.45" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:orientation="horizontal"
+                    android:padding="5dp"
+                    android:weightSum="1.0">
+
+                    <TextView
+                        android:id="@+id/lbl6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.55"
+                        android:text="Remarks: "
+                        android:textColor="@color/brownLoading"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/lblAnswer6"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.45" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_date"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:orientation="horizontal"
+                    android:padding="5dp"
+                    android:weightSum="1.0">
+
+                    <TextView
+                        android:id="@+id/lbl7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.55"
+                        android:text="Date Process: "
+                        android:textColor="@color/brownLoading"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/lblAnswer7"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="0.45"
+                        android:text="" />
+
+                </LinearLayout>
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:orientation="vertical"
+                    android:padding="5dp"
+                    >
+
+                    <TextView
+                        android:id="@+id/lbl8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Remarks: "
+                        android:textColor="@color/brownLoading"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/lblAnswer8"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="10dp" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_for_merging"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:gravity="center"
+                        android:text="Account For Merging"
+                        android:textColor="@color/brownLoading"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="horizontal"
+                        android:weightSum="1.0">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_weight="0.35"
+                            android:gravity="center"
+                            android:text="BOSS ID"
+                            android:textColor="@color/brownLoading"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_weight="0.33"
+                            android:gravity="center"
+                            android:text="Last Visit"
+                            android:textColor="@color/brownLoading"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_weight="0.32"
+                            android:gravity="center"
+                            android:text="Branch"
+                            android:textColor="@color/brownLoading"
+                            android:textSize="16sp"
+                            android:textStyle="bold" />
+
+                    </LinearLayout>
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="2dp"
+                        android:layout_margin="5dp"
+                        android:background="@color/brownLoading" />
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/recyclerMerging"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content">
+
+                    </android.support.v7.widget.RecyclerView>
+
+
+                </LinearLayout>
+
+
+                <LinearLayout
+                    android:id="@+id/linear_for_review_only"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="20dp"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@color/themeLightGray" />
+
+                    <TextView
+                        android:id="@+id/lblAttachment"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_margin="5dp"
+                        android:gravity="left"
+                        android:padding="5dp"
+                        android:text="Attachment: "
+                        android:textColor="@color/brownLoading"
+                        android:textSize="20dp"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:layout_width="match_parent"
+                        android:layout_height="1dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:background="@color/themeLightGray" />
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_centerInParent="true"
+                        android:adjustViewBounds="true"
+                        android:minHeight="100dp"
+                        android:scaleType="fitXY"
+                        android:src="@drawable/no_image" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/linear_for_plc_only"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:orientation="vertical"
+                    android:visibility="gone">
+
+                    <Button
+                        android:id="@+id/btnAction"
+                        style="@style/btnLaybareGreen"
+                        android:layout_width="match_parent"
+                        android:layout_height="?attr/actionBarSize"
+                        android:text="View Virtual PLC Card"
+                        android:textAppearance="@style/CollapsedAppBar" />
+
+                </LinearLayout>
+
+
+            </LinearLayout>
+
+
+        </android.support.v7.widget.CardView>
+    </android.support.v4.widget.NestedScrollView>
+
+
+</LinearLayout>

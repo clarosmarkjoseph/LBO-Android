@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_menu"
+    android:background="@color/themeWhite"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <android.support.v7.widget.Toolbar
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="?attr/actionBarSize"
+            android:layout_centerHorizontal="true"
+            android:background="@color/laybareGreen"
+            android:theme="@style/AppTheme.myToolbar"
+            android:id="@+id/myToolbar">
+            <TextView
+                android:id="@+id/forTitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="normal"
+                android:gravity="center"
+                android:text="Main Menu"
+                android:layout_gravity="center"
+                android:textSize="30dp"
+                android:textColor="@color/themeWhite"
+               />
+        </android.support.v7.widget.Toolbar>
+
+
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/webview_main_menu"
+        android:visibility="gone"
+        />
+
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+
+        <RelativeLayout
+            android:id="@+id/regListReg"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v4.view.ViewPager
+                android:id="@+id/viewPager"
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginTop="53dp"></android.support.v4.view.ViewPager>
+
+            <RelativeLayout
+                android:id="@+id/viewPagerIndicator"
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/viewPager"
+                android:layout_marginTop="-160dp"
+                android:gravity="center">
+
+                <ImageButton
+                    android:id="@+id/btn_next"
+                    android:layout_width="42dip"
+                    android:layout_height="42dip"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="5dip"
+                    android:layout_marginTop="50dp"
+                    android:background="@drawable/go"
+                    android:onClick="clickMenu" />
+
+                <ImageButton
+                    android:id="@+id/btn_finish"
+                    android:layout_width="42dip"
+                    android:layout_height="42dip"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginLeft="5dip"
+                    android:layout_marginTop="50dp"
+                    android:background="@drawable/back"
+                    android:contentDescription="Let's start"
+                    android:onClick="clickMenu"
+                    android:visibility="gone" />
+
+                <LinearLayout
+                    android:id="@+id/viewPagerCountDots"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_alignParentBottom="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginTop="120dp"
+                    android:gravity="center"
+                    android:orientation="horizontal" />
+            </RelativeLayout>
+
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/viewPagerIndicator">
+                <GridView
+                    android:id="@+id/main_menu_grid"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="-10dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:drawSelectorOnTop="true"
+                    android:gravity="left"
+                    android:numColumns="3"
+                    android:nestedScrollingEnabled="true"
+                    android:stretchMode="columnWidth"
+                    android:verticalSpacing="10dp"
+                    android:focusable="true"
+                    android:clickable="true"
+                    android:layout_alignParentTop="true"
+                    android:layout_alignParentLeft="true"
+                    android:layout_alignParentStart="true" />
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+    </FrameLayout>
+
+
+    <LinearLayout
+        android:id="@+id/layout_error"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/themeWhite"
+        android:orientation="vertical"
+        android:visibility="gone"
+        android:layout_marginTop="60dp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/no_internet"
+            android:id="@+id/ref_button"
+            android:background="@null"
+            android:gravity="center"
+            />
+
+        <ProgressBar
+            android:id="@+id/loading_bar"
+            android:visibility="gone"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_centerInParent="true"
+            style="@style/Widget.AppCompat.ProgressBar"
+            android:layout_height="60dp"
+            android:layout_width="60dp"
+            android:theme="@style/greenLoading"
+            android:layout_gravity="center"
+            android:indeterminateTint="@color/brownLoading"
+            android:indeterminateTintMode="multiply"
+            android:progressBackgroundTintMode="@color/themeWhite"
+            android:layout_below="@+id/imgsplash"
+            android:layout_weight="0.06"
+            />
+
+    </LinearLayout>
+
+</RelativeLayout>

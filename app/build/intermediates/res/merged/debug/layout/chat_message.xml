@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <include android:id="@+id/toolbar_layout" layout="@layout/toolbar_layout"/>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/lblGreeting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Start Chatting with our representative"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:weightSum="1.0">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="0.13"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical"
+                    android:visibility="visible">
+
+                    <RelativeLayout
+                        android:id="@+id/relativeConnection"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:background="@color/caution"
+                        android:orientation="horizontal"
+                        android:visibility="gone">
+
+                        <LinearLayout
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_centerInParent="true">
+
+                            <ProgressBar
+                                android:id="@+id/progressBar"
+                                style="@style/Widget.AppCompat.ProgressBar"
+                                android:layout_width="30dp"
+                                android:layout_height="30dp"
+                                android:layout_gravity="center"
+                                android:layout_toStartOf="@+id/lblConnectionStatus"
+                                android:foregroundGravity="center"
+                                android:gravity="center"
+                                android:indeterminate="true"
+                                android:indeterminateTint="@color/themeWhite"
+                                android:indeterminateTintMode="src_atop" />
+
+                            <TextView
+                                android:id="@+id/lblConnectionStatus"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_centerInParent="true"
+                                android:layout_gravity="center"
+                                android:layout_margin="10dp"
+                                android:layout_toRightOf="@+id/progresBar"
+                                android:gravity="center"
+                                android:text="Connecting...."
+                                android:textColor="@color/themeWhite"
+
+                                android:textSize="17sp" />
+
+                        </LinearLayout>
+
+                    </RelativeLayout>
+
+                    <RelativeLayout
+                        android:id="@+id/relativeLoading"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:visibility="gone">
+
+                        <ProgressBar
+                            style="@style/Widget.AppCompat.ProgressBar"
+                            android:layout_width="30dp"
+                            android:layout_height="30dp"
+                            android:layout_centerHorizontal="true"
+                            android:layout_gravity="center_vertical"
+                            android:layout_marginLeft="20dp"
+                            android:foregroundGravity="center"
+                            android:gravity="center"
+                            android:indeterminate="true"
+                            android:indeterminateTint="@color/brownLoading"
+                            android:indeterminateTintMode="src_atop" />
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+                <android.support.v7.widget.RecyclerView
+                    android:id="@+id/recyclerChat"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:nestedScrollingEnabled="true"
+                    android:visibility="visible"
+                    app:reverseLayout="true"
+
+                    app:stackFromEnd="true">
+
+
+                </android.support.v7.widget.RecyclerView>
+
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/laybareGreen"
+                android:gravity="bottom"
+                android:layout_weight="0.87"
+                android:orientation="horizontal"
+                android:visibility="visible">
+
+                <EditText
+                    android:id="@+id/txtBodyChat"
+                    style="@style/txtTextBox"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_margin="10dp"
+                    android:layout_weight="0.1"
+                    android:background="@color/themeWhite"
+                    android:hint="Type your message here.."
+                    android:inputType="textCapSentences|textMultiLine"
+                    android:padding="5dp" />
+
+                <ImageButton
+                    android:id="@+id/imgBtnSendChat"
+                    style="@style/Widget.AppCompat.ImageButton"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:layout_gravity="center"
+                    android:layout_margin="5dp"
+                    android:alpha="0.5"
+                    android:background="@drawable/circle_small_brown"
+                    android:clickable="false"
+                    android:foreground="?attr/selectableItemBackground"
+                    android:scaleType="centerInside"
+                    android:src="@drawable/a_send"
+                    android:tint="@color/themeWhite" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+</LinearLayout>

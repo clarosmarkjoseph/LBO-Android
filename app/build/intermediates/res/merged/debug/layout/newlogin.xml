@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/fragment_container"
+    android:focusableInTouchMode="true"
+    android:background="@color/brownLoading"
+    >
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fillViewport="true">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="5dp">
+
+                        <ImageView
+                            android:id="@+id/imageView"
+                            android:layout_width="match_parent"
+                            android:layout_height="100sp"
+                            android:layout_alignParentTop="true"
+                            android:layout_marginTop="20dp"
+                            android:src="@drawable/app_logo" />
+
+                        <EditText
+                            android:id="@+id/txtUsername"
+                            android:layout_width="match_parent"
+                            android:layout_height="56dp"
+                            android:layout_below="@+id/imageView"
+                            android:layout_centerHorizontal="true"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginRight="20dp"
+                            android:layout_marginTop="10dp"
+                            android:background="@drawable/textbox"
+                            android:hint="Email Address"
+                            android:inputType="textEmailAddress"
+                            android:paddingLeft="15dp" />
+
+                        <EditText
+                            android:id="@+id/txtPassword"
+                            android:layout_width="match_parent"
+                            android:layout_height="56dp"
+                            android:layout_below="@+id/txtUsername"
+                            android:background="@drawable/textbox"
+                            android:layout_marginLeft="20dp"
+                            android:layout_marginRight="20dp"
+                            android:layout_marginTop="10dp"
+                            android:ems="10"
+                            android:hint="Password"
+                            android:inputType="textPassword"
+                            android:paddingLeft="15dp" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:gravity="right|center_vertical"
+                            android:layout_below="@+id/txtPassword"
+                            android:id="@+id/linearForgot">
+
+                                <Button
+                                    android:id="@+id/btnForgotPassword"
+                                    style="@style/Widget.AppCompat.Button.Borderless"
+                                    android:layout_width="150dp"
+                                    android:layout_height="wrap_content"
+                                    android:background="?attr/selectableItemBackground"
+
+                                    android:gravity="right|center_vertical"
+                                    android:text="Forgot Password?"
+                                    android:textAllCaps="false"
+                                    android:textColor="@color/themeWhite"
+                                    android:textSize="16sp"
+                                    android:textStyle="bold" />
+
+                        </LinearLayout>
+
+
+
+                        <Button
+                            android:id="@+id/btnLogin"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_below="@+id/linearForgot"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginLeft="60dp"
+                            android:layout_marginRight="60dp"
+                            android:layout_marginBottom="10dp"
+                            android:layout_centerHorizontal="true"
+                            android:background="@color/menu_appointment"
+                            android:foreground="?attr/selectableItemBackground"
+                            android:text="Submit"
+                            android:textColor="@color/themeWhite"
+                            android:textSize="20dp" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="2dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@color/themeWhite"
+                            android:layout_below="@+id/btnLogin"
+                            android:id="@+id/viewLine1"/>
+
+                        <Button
+                            android:id="@+id/btnSignUp"
+                            style="?android:attr/borderlessButtonStyle"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_centerHorizontal="true"
+                            android:gravity="center"
+                            android:text="No account yet? Sign up here"
+                            android:layout_below="@+id/viewLine1"
+                            android:textStyle="bold"
+                            android:textAllCaps="false"
+                            android:foreground="?attr/selectableItemBackground"
+                            android:textColor="@color/themeWhite"
+                            android:textSize="16sp" />
+
+                        <View
+                            android:layout_width="match_parent"
+                            android:layout_height="2dp"
+                            android:layout_marginLeft="10dp"
+                            android:layout_marginRight="10dp"
+                            android:background="@color/themeWhite"
+                            android:layout_below="@+id/btnSignUp"
+                            android:id="@+id/viewLine2"/>
+
+                        <com.facebook.login.widget.LoginButton
+                            android:id="@+id/login_button"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_below="@+id/viewLine2"
+                            android:layout_centerHorizontal="true"
+                            android:layout_gravity="center_horizontal"
+                            android:layout_marginLeft="60dp"
+                            android:layout_marginTop="10dp"
+                            android:layout_marginBottom="10dp"
+                            android:layout_marginRight="60dp"/>
+
+
+                        <TextView
+                            android:text="If you click 'Sign Up with facebook' and are not a Lay Bare online user, you will be registered and you agree to Lay Bare Terms and Condition and Private Policy"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView3"
+                            android:gravity="center_vertical|left"
+                            android:layout_margin="11dp"
+                            android:textStyle="italic"
+                            android:textColor="@color/themeWhite"
+                            android:layout_alignParentBottom="true"
+                            android:layout_below="@+id/login_button" />
+
+                </RelativeLayout>
+
+        </android.support.v4.widget.NestedScrollView>
+
+
+</RelativeLayout>

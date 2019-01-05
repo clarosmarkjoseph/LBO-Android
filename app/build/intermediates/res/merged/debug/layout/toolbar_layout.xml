@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/laybareGreen"
+    android:orientation="horizontal"
+
+    android:weightSum="1.0"
+    android:elevation="10dp"
+    app:layout_scrollFlags="scroll|enterAlways">
+
+    <ImageButton
+        android:id="@+id/imgBtnBack"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.42"
+        android:background="?attr/selectableItemBackground"
+        android:foreground="?attr/selectableItemBackground"
+        android:src="@drawable/arrow_left"
+        android:tint="@color/themeWhite" />
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left|center_vertical"
+        android:gravity="left|center_vertical"
+        android:layout_weight="0.16"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/forTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical"
+            android:gravity="left|center_vertical"
+            android:text=""
+            android:textColor="@color/themeWhite"
+            android:textSize="20sp"
+            android:textStyle="normal" />
+
+        <TextView
+            android:id="@+id/forCaption"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left|center_vertical"
+            android:gravity="left|center_vertical"
+            android:text=""
+            android:textColor="@color/themeWhite"
+            android:textSize="13sp"
+            android:textStyle="normal"
+            android:visibility="gone"/>
+
+
+        <EditText
+            android:id="@+id/txtSearch"
+            style="@style/txtTextBoxSearch"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:background="@color/themeWhite"
+            android:hint="Search "
+            android:inputType="textPersonName"
+            android:padding="5dp"
+            android:textColor="@color/brownLoading"
+            android:textColorHint="@color/brownLoading"
+            android:visibility="gone" />
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.42">
+
+        <ImageButton
+            android:id="@+id/btnDoAction"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:visibility="gone"
+            android:background="?attr/selectableItemBackground"
+            android:src="@drawable/save" />
+
+    </RelativeLayout>
+
+</LinearLayout>
+

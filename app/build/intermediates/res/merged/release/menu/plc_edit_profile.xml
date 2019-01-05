@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="Edit Profile"
+        android:icon="@drawable/profile"
+        android:id="@+id/myProfile"
+        ></item>
+    <item
+        android:title="View Premier Loyalty Logs"
+        android:icon="@drawable/profile"
+        android:id="@+id/myPLC"
+        ></item>
+</menu>

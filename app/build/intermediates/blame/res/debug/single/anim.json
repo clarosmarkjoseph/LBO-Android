@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_button.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\rotate_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_forward.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_forward.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_forward.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_forward.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_to_left.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\right_to_left.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_open.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_open.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\anim\\exit.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_to_right.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\left_to_right.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_close.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_close.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_button.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\anim\\rotate_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_shake.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\anim\\animation_shake.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\exit.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_to_right.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\left_to_right.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_to_left.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\anim\\right_to_left.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\exit.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\exit.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\enter.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\anim\\enter.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_shake.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\animation_shake.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_forward.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_forward.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_backward.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_backward.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\animation_shake.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\animation_shake.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_backward.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_backward.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_to_right.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\anim\\left_to_right.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_close.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_close.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_backward.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_backward.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_to_left.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\right_to_left.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_open.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_open.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_open.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_open.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.1.0\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate_button.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\rotate_button.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Transfer To Mac Files\\Development On-Going\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fab_close.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\src\\main\\res\\anim\\fab_close.xml"
+    },
+    {
+        "merged": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "E:\\Users\\paolohilario\\Desktop\\Mobile Development\\Lay-Bare Android\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\27.0.2\\res\\anim\\tooltip_exit.xml"
+    }
+]

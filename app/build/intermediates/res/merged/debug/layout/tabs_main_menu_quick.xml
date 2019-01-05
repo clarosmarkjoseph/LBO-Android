@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/relative_quick"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/lbl1"
+        >
+
+        <GridView
+            android:id="@+id/grid_quick"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+
+            android:clickable="true"
+            android:drawSelectorOnTop="true"
+            android:focusable="true"
+            android:gravity="left"
+            android:horizontalSpacing="1sp"
+            android:verticalSpacing="1sp"
+            android:nestedScrollingEnabled="true"
+            android:numColumns="3"
+            android:stretchMode="columnWidth"
+           />
+        <!--android:horizontalSpacing="10sp"-->
+        <!--android:verticalSpacing="10sp"-->
+    </RelativeLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="ahhaa"/>
+</LinearLayout>

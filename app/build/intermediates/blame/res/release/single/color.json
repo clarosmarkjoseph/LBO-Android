@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/vpi__light_theme.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.githang/viewpagerindicator/2.4.2/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/vpi__dark_theme.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.githang/viewpagerindicator/2.4.2/res/color/vpi__dark_theme.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/vpi__dark_theme.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.githang/viewpagerindicator/2.4.2/res/color/vpi__dark_theme.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.33.0/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/design_error.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/color/design_error.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/mcv_text_date_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.prolificinteractive/material-calendarview/1.4.3/res/color/mcv_text_date_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/com_facebook_button_text_color.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.36.1/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/design_tint_password_toggle.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_switch_track.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/vpi__light_theme.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.githang/viewpagerindicator/2.4.2/res/color/vpi__light_theme.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_btn_checkable.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_seek_thumb.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_btn_colored_borderless_text_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_btn_colored_text_material.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_default.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_default.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/mcv_text_date_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.prolificinteractive/material-calendarview/1.4.3/res/color/mcv_text_date_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/com_facebook_send_button_text_color.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-share/4.36.1/res/color/com_facebook_send_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/com_facebook_button_text_color.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.facebook.android/facebook-common/4.33.0/res/color/com_facebook_button_text_color.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/mcv_text_date_light.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.prolificinteractive/material-calendarview/1.4.3/res/color/mcv_text_date_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_spinner.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/mcv_text_date_light.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.prolificinteractive/material-calendarview/1.4.3/res/color/mcv_text_date_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.2.2/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_dark.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_tint_edittext.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_hint_foreground_material_light.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/color/abc_primary_text_material_light.xml"
+    }
+]

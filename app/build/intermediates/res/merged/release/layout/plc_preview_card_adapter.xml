@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.constraint.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_margin="10dp"
+            >
+
+        <ImageView
+            android:id="@+id/imgCard"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:adjustViewBounds="false"
+            android:background="@drawable/a_border_radius"
+            android:scaleType="fitXY"
+            tools:ignore="MissingConstraints"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="16dp"
+            android:padding="2dp"
+            android:src="@drawable/plc_female_back"
+            android:layout_margin="5dp"
+          />
+
+        <TextView
+            android:id="@+id/lblFullName"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentTop="true"
+
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="15dp"
+
+            android:textAllCaps="true"
+            android:textColor="@color/themeBlack"
+            android:textSize="17dp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.65"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintVertical_bias="0.14999998" />
+
+        <TextView
+            android:id="@+id/lblFullBranch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/lblFullName"
+            android:layout_below="@+id/lblFullName"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:textAllCaps="true"
+            android:textColor="@color/themeBlack"
+            android:textSize="17dp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/imgCard"
+            app:layout_constraintHorizontal_bias="0.635"
+            app:layout_constraintStart_toStartOf="@+id/imgCard"
+            app:layout_constraintTop_toTopOf="@+id/imgCard"
+            app:layout_constraintVertical_bias="0.32" />
+
+        <TextView
+            android:id="@+id/lblFullID"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+            android:layout_toEndOf="@+id/lblFullBranch"
+            android:textColor="@color/themeBlack"
+            android:textSize="17sp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="@+id/imgCard"
+            app:layout_constraintHorizontal_bias="0.806"
+            app:layout_constraintStart_toStartOf="@+id/imgCard"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/lblFullBday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/lblFullID"
+            android:layout_below="@+id/lblFullID"
+            android:layout_marginBottom="8dp"
+            android:layout_marginEnd="8dp"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="8dp"
+
+            android:textColor="@color/themeBlack"
+            android:textSize="17sp"
+            android:visibility="visible"
+            app:layout_constraintBottom_toBottomOf="@+id/imgCard"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.804"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/imgCard"
+            app:layout_constraintVertical_bias="0.628" />
+
+
+</android.support.constraint.ConstraintLayout>
+

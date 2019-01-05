@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/relative_appointment_preview"
+    >
+
+    <include layout="@layout/toolbar_layout"/>
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <RelativeLayout
+            android:id="@+id/relativeContent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <android.support.v4.widget.NestedScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                android:fillViewport="true">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cardTotal"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:cardCornerRadius="5dp"
+                        app:cardElevation="2sp">
+                        <!--app:cardBackgroundColor="@color/laybareGreen"-->
+                        <LinearLayout
+                            android:id="@+id/linearTotal"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="center"
+                            android:layout_margin="5sp"
+                            android:orientation="vertical"
+                            android:weightSum="1.0">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="10dp"
+                                android:gravity="center"
+                                android:text="Total Price"
+                                android:textColor="@color/brownLoading"
+                                android:textSize="15sp"
+                                android:textStyle="italic" />
+
+                            <TextView
+                                android:id="@+id/lblNetPrice"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginTop="5dp"
+                                android:gravity="center"
+                                android:text="Php 0.00"
+                                android:textColor="@color/brownLoading"
+                                android:textSize="25sp"
+                                android:textStyle="bold" />
+
+
+                            <TextView
+                                android:id="@+id/lblStatus"
+                                android:layout_width="150dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginBottom="10dp"
+                                android:layout_marginTop="5dp"
+                                android:gravity="center"
+                                android:padding="5dp"
+                                android:textColor="@color/themeWhite"
+                                android:textSize="16sp" />
+
+                        </LinearLayout>
+
+                    </android.support.v7.widget.CardView>
+
+                    <TextView
+                        android:id="@+id/lbl1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dp"
+                        android:layout_marginRight="20dp"
+                        android:text="Appointment Details"
+                        android:textColor="@color/themeDarkGray"
+                        android:textStyle="bold|italic" />
+
+                    <android.support.v7.widget.CardView
+                        android:id="@+id/cardDetails"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/lbl1"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_marginBottom="5dp"
+                        android:clickable="true"
+                        android:focusable="true"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        app:cardCornerRadius="5dp"
+                        app:cardElevation="4sp">
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_alignStart="@+id/cardDetails"
+                            android:layout_alignTop="@+id/cardDetails"
+                            android:layout_margin="5dp"
+                            android:orientation="vertical">
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5sp"
+                                android:layout_marginRight="5sp"
+                                android:weightSum="1.0">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.55"
+                                    android:text="Date:"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="normal" />
+
+                                <TextView
+                                    android:id="@+id/lblDate"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.45"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="bold" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5sp"
+                                android:layout_marginRight="5sp"
+                                android:weightSum="1.0">
+
+                                <TextView
+                                    android:id="@+id/textView21"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.55"
+                                    android:text="Referrence no: "
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="normal"/>
+
+                                <TextView
+                                    android:id="@+id/lblReferenceNo"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.45"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="bold"
+                                    android:gravity="left" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5sp"
+                                android:layout_marginRight="5sp"
+                                android:weightSum="1.0">
+
+                                <TextView
+                                    android:id="@+id/textView20"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.55"
+                                    android:text="Transaction Type:"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="normal" />
+
+                                <TextView
+                                    android:id="@+id/lblType"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.45"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="bold"
+                                    android:gravity="left" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5sp"
+                                android:layout_marginRight="5sp"
+                                android:weightSum="1.0">
+
+                                <TextView
+                                    android:id="@+id/textView19"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.55"
+                                    android:text="Branch:"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="normal" />
+
+                                <TextView
+                                    android:id="@+id/lblBranch"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.45"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="bold"
+                                    android:gravity="left" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5sp"
+                                android:layout_marginRight="5sp"
+                                android:weightSum="1.0">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.55"
+                                    android:text="Technician:"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="normal" />
+
+                                <TextView
+                                    android:id="@+id/lblTechnician"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="bold"
+                                    android:layout_weight="0.45" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5sp"
+                                android:layout_marginRight="5sp"
+                                android:weightSum="1.0">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.55"
+                                    android:text="Booked At:"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="normal"/>
+
+                                <TextView
+                                    android:id="@+id/lblPlatform"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="bold"
+                                    android:layout_weight="0.45" />
+                            </LinearLayout>
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_marginLeft="5sp"
+                                android:layout_marginRight="5sp"
+                                android:weightSum="1.0">
+
+                                <TextView
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_weight="0.55"
+                                    android:text="Appointment Starts At:"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="normal" />
+
+                                <TextView
+                                    android:id="@+id/lblTime"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:textColor="@color/brownLoading"
+                                    android:textStyle="bold"
+                                    android:layout_weight="0.45" />
+                            </LinearLayout>
+
+
+
+                        </LinearLayout>
+                    </android.support.v7.widget.CardView>
+
+
+                    <Button
+                        android:id="@+id/btnWaiver"
+                        android:layout_width="250dp"
+                        android:layout_height="35dp"
+                        android:layout_gravity="center_horizontal|center_vertical"
+                        android:layout_margin="5dp"
+                        android:layout_weight="0.4"
+                        android:background="@color/laybareGreen"
+                        android:drawableRight="@drawable/right"
+                        android:drawableTint="@color/themeWhite"
+                        android:drawableTintMode="@color/themeWhite"
+                        android:focusable="true"
+                        android:text="View Digital Waiver"
+                        android:padding="5dp"
+                        android:shadowRadius="@android:integer/status_bar_notification_info_maxnum"
+                        android:textColor="@color/themeWhite"
+                        android:textSize="13sp" />
+
+
+                    <TextView
+                        android:id="@+id/textView13"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/cardDetails"
+                        android:layout_marginBottom="10dp"
+                        android:layout_marginLeft="20sp"
+                        android:layout_marginRight="20sp"
+                        android:layout_marginTop="5sp"
+                        android:text="Transaction Items: "
+                        android:textAlignment="textStart"
+                        android:textColor="@color/themeDarkGray"
+                        android:textSize="16sp"
+                        android:textStyle="bold|italic" />
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/recyclerItems"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_below="@+id/textView13"
+                        android:layout_marginBottom="70dp"
+                        android:layout_marginLeft="5dp"
+                        android:layout_marginRight="5dp"
+                        android:focusable="false" />
+
+
+                </LinearLayout>
+
+            </android.support.v4.widget.NestedScrollView>
+
+
+            <!--android:backgroundTint="@color/laybareGreen"-->
+
+
+        </RelativeLayout>
+
+        <include layout="@layout/a_no_internet"/>
+
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+
+
+
+
+</LinearLayout>

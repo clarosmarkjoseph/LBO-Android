@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nestedScrollView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/linearContent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:visibility="visible">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:orientation="vertical"
+                    android:weightSum="1.0">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="150dp"
+                        android:layout_weight="0.45"
+                        android:orientation="horizontal"
+                        android:weightSum="1.0"
+
+                        >
+
+                        <com.github.mikephil.charting.charts.HorizontalBarChart
+                            android:id="@+id/chart"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:layout_weight="0.45" />
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="150dp"
+                            android:layout_gravity="center"
+                            android:layout_weight="0.55"
+                            android:gravity="center"
+                            android:orientation="vertical">
+
+
+                            <TextView
+                                android:id="@+id/lblBranchAverageReview"
+                                android:layout_width="match_parent"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:gravity="center"
+                                android:text="0.0"
+                                android:textSize="40sp"
+                                android:textStyle="bold" />
+
+                            <RatingBar
+                                android:id="@+id/ratingBar"
+                                style="@android:style/Widget.Holo.Light.RatingBar.Small"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:clickable="false"
+                                android:gravity="center"
+                                android:numStars="5"
+                                android:padding="0dp"
+                                android:progressBackgroundTint="@color/themeLightGray"
+                                android:progressTint="@color/laybareGreen"
+                                android:rating="0"
+                                android:stepSize="0.1" />
+
+
+                            <TextView
+                                android:id="@+id/lblRateCount"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:drawableRight="@drawable/a_person"
+                                android:drawableTint="@color/brownLoading"
+                                android:drawablePadding="2dp"
+                                android:gravity="center"
+                                android:text="0"
+                                android:textSize="18sp" />
+
+                        </LinearLayout>
+
+                    </LinearLayout>
+
+                    <!--<RatingBar-->
+                    <!--android:layout_width="match_parent"-->
+                    <!--android:layout_height="wrap_content" -->
+                    <!--android:rating="3.5"-->
+                    <!--android:numStars="3.5"-->
+                    <!--/>-->
+
+                </LinearLayout>
+            </android.support.v7.widget.CardView>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:gravity="left"
+                android:text="Client's Review"
+                android:textSize="18sp" />
+
+            <android.support.v7.widget.RecyclerView
+                android:id="@+id/recyclerReviews"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:nestedScrollingEnabled="false"
+                android:visibility="visible">
+
+            </android.support.v7.widget.RecyclerView>
+
+            <TextView
+                android:id="@+id/lblEmpty"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="5dp"
+                android:gravity="center"
+                android:text="No review"
+                android:textColor="@color/brownLoading"
+                android:textSize="18sp"
+                android:textStyle="italic|bold"
+                android:visibility="gone" />
+
+
+            <LinearLayout
+                android:id="@+id/linear_loading"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_centerHorizontal="true"
+                android:foregroundGravity="center"
+                android:gravity="center"
+                android:visibility="gone">
+
+                <ProgressBar
+                    android:id="@+id/progresBar"
+                    style="@style/Widget.AppCompat.ProgressBar"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:layout_centerHorizontal="true"
+                    android:foregroundGravity="center"
+                    android:gravity="center"
+                    android:indeterminate="true"
+                    android:indeterminateTint="@color/brownLoading"
+                    android:indeterminateTintMode="src_atop" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v4.widget.NestedScrollView>

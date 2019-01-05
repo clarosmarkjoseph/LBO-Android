@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <!--<TextView-->
+    <!--android:text="My profile"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:layout_centerVertical="true"-->
+    <!--android:layout_centerHorizontal="true"-->
+    <!--android:id="@+id/textView13"-->
+    <!--android:textSize="30dp"/>-->
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:fillViewport="true"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <RelativeLayout
+                android:id="@+id/relativeProfile_top"
+                android:layout_width="match_parent"
+                android:layout_height="140dp"
+                android:layout_margin="10sp"
+                android:background="@color/themeWhite"
+                android:paddingBottom="30dp">
+
+                <TextView
+                    android:id="@+id/lblName"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="20dp"
+                    android:layout_marginStart="30dp"
+                    android:layout_marginTop="32dp"
+                    android:layout_toEndOf="@+id/imgview_profile"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text=""
+                    android:textSize="16dp" />
+
+                <Button
+                    android:id="@+id/btnProfile"
+                    android:layout_width="match_parent"
+                    android:layout_height="30dp"
+                    android:layout_alignBottom="@+id/imgview_profile"
+                    android:layout_alignStart="@+id/lblName"
+                    android:layout_marginRight="10dp"
+                    android:background="@drawable/border_only_np_background"
+                    android:gravity="center"
+                    android:text="Edit Profile"
+                    android:textColor="@color/laybareGreen" />
+
+                <ImageView
+                    android:id="@+id/imgview_profile"
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:layout_alignParentStart="true"
+                    android:layout_alignTop="@+id/lblName"
+                    android:layout_marginStart="20dp"
+                    android:src="@drawable/no_profile" />
+
+                <TextView
+                    android:id="@+id/lblID"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_above="@+id/btnProfile"
+                    android:layout_alignStart="@+id/lblName"
+                    android:layout_marginBottom="16dp"
+                    android:gravity="center"
+                    android:text=""
+                    android:textSize="13dp" />
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/relative_transaction"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/relativeProfile_top"
+                android:layout_marginBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp">
+
+                <TextView
+                    android:id="@+id/lbltransaction"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="10dp"
+                    android:text="Get Started"
+                    android:textSize="20dp" />
+
+
+                <android.support.v7.widget.RecyclerView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/recycler_ProfileNav"
+                    android:layout_below="@+id/lbltransaction"
+                    android:layout_margin="5sp"
+                    >
+
+                </android.support.v7.widget.RecyclerView>
+
+
+
+            </RelativeLayout>
+
+
+        </RelativeLayout>
+
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+</RelativeLayout>

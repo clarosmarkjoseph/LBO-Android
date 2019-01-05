@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/exit.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/anim/exit.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/left_to_right.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/anim/left_to_right.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/right_to_left.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/anim/right_to_left.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/left_to_right.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/anim/left_to_right.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/tooltip_exit.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/rotate_button.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/anim/rotate_button.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/rotate_button.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/anim/rotate_button.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/exit.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/anim/exit.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/fab_close.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/anim/fab_close.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/enter.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/anim/enter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/fab_open.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/anim/fab_open.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/enter.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/anim/enter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/fab_forward.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/anim/fab_forward.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/right_to_left.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/anim/right_to_left.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/fab_backward.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/anim/fab_backward.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/fab_forward.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/anim/fab_forward.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/animation_shake.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/anim/animation_shake.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/tooltip_enter.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/tooltip_enter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/fab_open.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/src/main/res/anim/fab_open.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/fab_backward.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/anim/fab_backward.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/fab_close.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/anim/fab_close.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/tooltip_exit.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/tooltip_exit.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/27.0.2/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/anim/animation_shake.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/src/main/res/anim/animation_shake.xml"
+    }
+]

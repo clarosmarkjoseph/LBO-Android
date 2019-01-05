@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        android:id="@+id/linearToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/laybareGreen"
+        android:minHeight="?attr/actionBarSize"
+        android:orientation="horizontal"
+        android:theme="@style/AppTheme.myToolbar"
+        android:weightSum="1.0">
+
+
+        <ImageButton
+            android:id="@+id/btnPrev"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_weight="0.4"
+            android:background="?attr/selectableItemBackground"
+            android:scaleType="centerInside"
+            android:src="@drawable/arrow_left"
+            android:tint="@color/themeWhite" />
+
+
+        <TextView
+            android:id="@+id/forTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="0.2"
+            android:gravity="center"
+            android:text="Terms &amp; Conditions"
+            android:textColor="@color/themeWhite"
+            android:textSize="25sp"
+            android:textStyle="normal" />
+
+        <Button
+            style="?android:attr/borderlessButtonStyle"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_weight="0.4"
+            android:background="@color/transparent"
+            android:foreground="?attr/selectableItemBackground" />
+    </LinearLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearToolbar"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="80dp"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dp"
+                app:cardCornerRadius="5dp"
+                android:layout_centerInParent="true"
+                app:cardElevation="5dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+
+                        <TextView
+                            android:id="@+id/lblAgreement"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_margin="10dp"
+                            android:gravity="left"
+                            android:text="of legal age, fully understood that the procedure's involves certain risks to my body,which includes scratches, pain, soreness, injury, sickness, irittation, or rash, etc., which may be present and/or after the procedure and I fully accept and assume such risk and responsibility for losses, cost, and damages I may occur. I hereby release and discharge LAY BARE WAXING SALON, its stockholders, directors, franchisees, officers and technicians from all liability, claims, damages, losses, arising from the services they have rendered into meI acknowledge that I have read this Agreement and fully understand its terms and condition"
+                            android:textSize="15sp" />
+
+                        <CheckBox
+                            android:id="@+id/checkAgree"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:drawableTint="@color/laybareGreen"
+                            android:gravity="end|left|center"
+                            android:text="@string/termsAgree"
+                            android:lines="2"
+                            android:layout_marginLeft="5dp"
+                            android:layout_marginRight="5dp"
+                            android:textSize="17sp"
+                            android:textColor="@color/brownLoading" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+
+            </android.support.v7.widget.CardView>
+
+        </RelativeLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        style="@style/btnLaybareBrown"
+        android:layout_margin="0dp"
+        android:layout_alignParentBottom="true"
+        android:padding="0dp"
+        android:foreground="?attr/selectableItemBackground"
+        android:text="Book Now!" />
+
+
+</RelativeLayout>

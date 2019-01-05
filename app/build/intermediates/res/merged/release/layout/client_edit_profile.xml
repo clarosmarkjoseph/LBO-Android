@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <include layout="@layout/toolbar_layout"/>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cardview_homebranch"
+                android:layout_width="match_parent"
+                android:layout_height="120dp"
+                android:layout_margin="10dp"
+                android:visibility="gone"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Home Branch:"
+                        android:textColor="@color/brownLoading"
+                        android:textSize="18dp" />
+
+                    <Spinner
+                        android:id="@+id/spinner_profile_branch"
+                        style="@style/Base.Widget.AppCompat.Spinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="60dp"
+                        android:layout_below="@+id/textView4"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="14dp"
+                        android:background="@drawable/textbox_border_gray"
+                        android:padding="10dp"
+                        android:spinnerMode="dialog"></Spinner>
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cardview_profile_details"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="10dp"
+                android:layout_marginTop="10dp"
+                android:visibility="visible"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_below="@+id/lblPersonal_details"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:id="@+id/lblPersonal_details"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:layout_marginBottom="10dp"
+                        android:text="Personal Details"
+                        android:textColor="@color/brownLoading"
+                        android:textSize="20dp" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="First Name:"
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="18dp" />
+
+                    <EditText
+                        android:id="@+id/txtFname"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/textbox_border_gray"
+                        android:inputType="text"
+                        android:padding="10dp"
+                        android:text="" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Middle Name:"
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="18dp" />
+
+                    <EditText
+                        android:id="@+id/txtMname"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/textbox_border_gray"
+                        android:inputType="text"
+                        android:padding="10dp"
+                        android:text="" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Last Name:"
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="18dp" />
+
+                    <EditText
+                        android:id="@+id/txtLname"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/textbox_border_gray"
+                        android:inputType="text"
+                        android:padding="10dp"
+                        android:text="" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Gender:"
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="18dp" />
+
+
+                    <Spinner
+                        android:id="@+id/spinner_profile_gender"
+                        style="@style/Base.Widget.AppCompat.Spinner"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/textView4"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="14dp"
+                        android:alpha="0.5"
+                        android:background="@drawable/textbox_border_gray"
+                        android:clickable="false"
+                        android:enabled="false"
+                        android:padding="10dp"
+                        android:spinnerMode="dialog" />
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:alpha="0.5"
+                        android:enabled="false"
+                        android:text="Birthday:"
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="18dp" />
+
+                    <EditText
+                        android:id="@+id/txtBday"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:alpha="1.0"
+                        android:background="@drawable/textbox_border_gray"
+                        android:enabled="true"
+                        android:inputType="text"
+                        android:padding="10dp"
+                        android:text="" />
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Address:"
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="18dp" />
+
+                    <EditText
+                        android:id="@+id/txtAddress"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_below="@+id/txtLname"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/textbox_border_gray"
+                        android:gravity="top|left"
+                        android:inputType="textMultiLine"
+                        android:lines="5"
+                        android:maxLines="5"
+                        android:minLines="5"
+                        android:padding="10dp"
+                        android:scrollbars="vertical"
+                        android:text="" />
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginRight="10dp"
+                        android:layout_marginTop="10dp"
+                        android:text="Contact No:"
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="18dp" />
+
+                    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                        android:id="@+id/linear1"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/txtview5"
+                        android:layout_marginBottom="15dp"
+                        android:layout_marginLeft="15dp"
+                        android:layout_marginRight="15dp"
+                        android:layout_marginTop="5dp"
+                        android:orientation="horizontal"
+                        android:weightSum="1">
+
+                        <EditText
+                            android:id="@+id/maskingPhone"
+                            android:layout_width="120dp"
+                            android:layout_height="40dp"
+                            android:layout_below="@+id/txtview5"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="0.5"
+                            android:background="@drawable/textbox_border_gray"
+                            android:ems="10"
+                            android:focusable="false"
+                            android:gravity="center"
+                            android:inputType="phone"
+                            android:maxLength="11"
+                            android:paddingLeft="0dp"
+                            android:text="+63" />
+
+                        <EditText
+                            android:id="@+id/txtContact"
+                            android:layout_width="match_parent"
+                            android:layout_height="40dp"
+                            android:layout_below="@+id/txtview5"
+                            android:layout_marginLeft="15dp"
+                            android:layout_marginTop="5dp"
+                            android:layout_weight="0.5"
+                            android:background="@drawable/textbox_border_gray"
+                            android:ems="11"
+                            android:inputType="phone"
+                            android:maxLength="11"
+                            android:paddingLeft="15dp" />
+
+                    </LinearLayout>
+
+
+                </LinearLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+            <android.support.v7.widget.CardView
+                android:id="@+id/cardview_profile_account"
+                android:layout_width="match_parent"
+                android:layout_height="380dp"
+                android:layout_margin="10dp"
+                app:cardCornerRadius="5dp"
+                app:cardElevation="5dp"
+                android:visibility="gone">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_margin="10dp">
+
+                    <TextView
+                        android:id="@+id/textView13"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_alignParentStart="true"
+                        android:layout_alignParentTop="true"
+                        android:layout_gravity="center"
+                        android:layout_margin="10dp"
+                        android:text="Account Details"
+                        android:textColor="@color/brownLoading"
+                        android:textSize="18dp" />
+
+                    <TextView
+                        android:id="@+id/textView14"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignStart="@+id/textView13"
+                        android:layout_below="@+id/textView13"
+                        android:text="Email Address: "
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="15dp" />
+
+                    <EditText
+                        android:id="@+id/txtEmail"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/textView14"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/textbox_border_gray"
+                        android:editable="false"
+                        android:padding="10dp" />
+
+                    <TextView
+                        android:id="@+id/textView15"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignStart="@+id/txtEmail"
+                        android:layout_below="@+id/txtEmail"
+                        android:text="Enter Old Password: "
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="15dp" />
+
+                    <EditText
+                        android:id="@+id/txtOldPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/textView15"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/textbox_border_gray"
+                        android:inputType="textPassword"
+                        android:padding="10dp" />
+
+                    <TextView
+                        android:id="@+id/textView16"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignStart="@+id/txtOldPassword"
+                        android:layout_below="@+id/txtOldPassword"
+                        android:text="Enter New Password: "
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="15dp" />
+
+                    <EditText
+                        android:id="@+id/txtNewPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/textView16"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/textbox_border_gray"
+                        android:inputType="textPassword"
+                        android:padding="10dp" />
+
+                    <TextView
+                        android:id="@+id/textView17"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignStart="@+id/txtNewPassword"
+                        android:layout_below="@+id/txtNewPassword"
+                        android:text="Confirm Password: "
+                        android:textColor="@color/laybareGreen"
+                        android:textSize="15dp" />
+
+                    <EditText
+                        android:id="@+id/txtConfirmPassword"
+                        android:layout_width="match_parent"
+                        android:layout_height="40dp"
+                        android:layout_below="@+id/textView17"
+                        android:layout_margin="10dp"
+                        android:background="@drawable/textbox_border_gray"
+                        android:inputType="textPassword"
+                        android:padding="5dp"
+                        android:text="" />
+
+                </RelativeLayout>
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+
+</LinearLayout>

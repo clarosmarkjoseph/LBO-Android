@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_waiver.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_waiver.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_filter.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_filter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/dot.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/dot.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_cake_bday.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_cake_bday.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_exclamation.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_exclamation.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/profile.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_settings.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_settings.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/dot.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/dot.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/arrow_left.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/arrow_left.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_heart_heart.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_heart_heart.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/go.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/go.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_close.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_close.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_cart.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_cart.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/right.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/right.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_web.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_web.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/selectable.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/selectable.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_ongoing.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_ongoing.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/whats_new.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/whats_new.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_person.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_person.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_notifications.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_notifications.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/check.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/check.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_clock.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_clock.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_direction.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_direction.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_promo_tag.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_promo_tag.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/right.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/right.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_book.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_book.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_web.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_web.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_mail.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_mail.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/arrow_down.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/arrow_down.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_current_location_line.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_current_location_line.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_comment.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_comment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_current_location_line.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_current_location_line.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_refresh.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_refresh.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_cart.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_cart.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_filter.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_filter.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/go.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/go.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/send.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/send.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_my_location.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_my_location.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_chevron_left_black_24dp.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_chevron_left_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_cake_bday.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_cake_bday.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/send.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/send.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_exclamation.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_exclamation.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/search.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/search.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_remove.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_remove.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_transaction.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_transaction.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/back.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/back.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/back.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/back.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_close.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_close.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_card_option.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_card_option.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/back_brown.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/back_brown.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/edit.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/edit.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/my_activity.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/my_activity.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_info.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_info.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_launcher_background.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_remove.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_remove.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/location.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/location.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/check.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/check.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/circle_divider.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/circle_divider.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_payment.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_payment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_my_location.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_my_location.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_person.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_person.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_transaction.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_transaction.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_email.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_email.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_message.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_message.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_message.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_message.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/search.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/search.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/subtract.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/subtract.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/arrow_down.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/arrow_down.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_promo_tag.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_promo_tag.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/camera.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/camera.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_upload.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_upload.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/add.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/add.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_call.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_call.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/add.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/add.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_send.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_send.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_share_to_social_media.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_share_to_social_media.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/save.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/save.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/circle_divider.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/circle_divider.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_current_position.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_current_position.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_history.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_history.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_direction.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_direction.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/arrow_left.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/arrow_left.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/arrow_right.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/arrow_right.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_launcher_background.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/arrow_up.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/arrow_up.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_info.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_info.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/arrow_right.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/arrow_right.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_settings.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_settings.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/location.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/location.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/clock.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/clock.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_card_option.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_card_option.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/edit.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/edit.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_comment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_comment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_card.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_card.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_share_to_social_media.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_share_to_social_media.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/whats_new.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/whats_new.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_history.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_history.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/camera.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/camera.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_notifications.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_notifications.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_ongoing.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_ongoing.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_mail.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_mail.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_book.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_book.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_call.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_call.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_payment.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_payment.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/selectable.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/selectable.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_card.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_card.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/subtract.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/subtract.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_heart_default.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_heart_default.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/back_brown.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/back_brown.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/profile.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/profile.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/clock.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/clock.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/ic_chevron_left_black_24dp.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/ic_chevron_left_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_clock.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_clock.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_current_position.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_current_position.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/nonselectable.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/nonselectable.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/my_activity.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/my_activity.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_upload.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_upload.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/nonselectable.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/nonselectable.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_refresh.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_refresh.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_heart_default.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_heart_default.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_list.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_list.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/exploded-aar/com.android.support/design/26.1.0/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_email.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_email.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/save.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/save.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_send.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_send.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_heart_heart.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_heart_heart.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_waiver.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_waiver.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/a_list.xml",
+        "source": "/Users/paolohilario/Desktop/Transfer To Mac Files/Development On-Going/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/a_list.xml"
+    },
+    {
+        "merged": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/intermediates/res/merged/release/drawable-anydpi-v21/arrow_up.xml",
+        "source": "/Users/paolohilario/Desktop/Mobile Development/Lay-Bare Android/app/build/generated/res/pngs/release/drawable-anydpi-v21/arrow_up.xml"
+    }
+]

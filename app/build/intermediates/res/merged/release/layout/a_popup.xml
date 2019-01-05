@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/circle_transparent"
+    android:orientation="vertical"
+
+
+    >
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+
+           >
+
+
+            <LinearLayout
+                android:id="@+id/linear_header"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/laybareGreen"
+                android:orientation="vertical"
+                android:weightSum="1.0">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <de.hdodenhof.circleimageview.CircleImageView
+                        android:id="@+id/imgHeader"
+                        android:layout_width="70dp"
+                        android:layout_height="70dp"
+                        android:layout_centerHorizontal="true"
+                        android:layout_marginTop="20dp"
+                        android:background="@android:color/transparent"
+                        android:foregroundGravity="center"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/z_icon_error" />
+
+                    <ImageButton
+                        android:id="@+id/btnClose"
+                        android:layout_width="40dp"
+                        android:layout_height="40dp"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentTop="true"
+                        android:background="@color/transparent"
+
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/close" />
+                </RelativeLayout>
+
+                <TextView
+                    android:id="@+id/lblTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/imgHeader"
+                    android:layout_margin="10dp"
+                    android:gravity="center"
+                    android:text="Success!"
+                    android:textColor="@color/themeWhite"
+                    android:textSize="30sp"
+                    android:textStyle="bold" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_below="@+id/linear_header"
+                android:layout_gravity="center"
+                android:layout_margin="10dp"
+                android:background="@android:color/transparent"
+                android:foregroundGravity="center"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/lblMessage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="25dp"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginRight="10dp"
+                    android:gravity="left"
+                    android:text="HA"
+                    android:textSize="17sp" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        android:orientation="horizontal"
+        android:gravity="bottom"
+        android:weightSum="1.0">
+
+        <Button
+            android:id="@+id/btnCancel"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_below="@+id/lblMessage"
+            android:layout_weight="0.5"
+
+            android:background="@color/themeLightGray"
+            android:text="Cancel"
+            android:textColor="@color/themeBlack"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/btnFinish"
+            android:background="@color/laybareGreen"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:layout_below="@+id/lblMessage"
+            android:layout_weight="0.5"
+            android:text="Ok"
+            android:textColor="@color/themeWhite"
+            android:visibility="visible" />
+
+    </LinearLayout>
+
+</LinearLayout>

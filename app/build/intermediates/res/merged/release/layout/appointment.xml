@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipeRefresh"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        <android.support.v4.widget.NestedScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/linearLayout2"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    android:id="@+id/linear_content"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <android.support.v7.widget.CardView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        app:cardElevation="5dp"
+                        android:backgroundTint="@color/laybareGreen"
+                        app:cardCornerRadius="10dp"
+
+                        >
+
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+
+                            android:layout_gravity="center_vertical"
+                            android:gravity="center_vertical"
+                            android:orientation="horizontal">
+
+                            <ImageButton
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="0.45"
+                                android:id="@+id/imgBtnPrev"
+                                android:background="?attr/selectableItemBackground"
+                                android:src="@drawable/arrow_left"
+                                android:tint="@color/themeWhite" />
+
+                            <LinearLayout
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_margin="10dp"
+                                android:layout_weight="0.1"
+                                android:orientation="vertical">
+
+                                <TextView
+                                    android:id="@+id/lblCalendarYear"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:layout_margin="5dp"
+                                    android:gravity="left"
+                                    android:textColor="@color/themeWhite"
+                                    android:textSize="20sp"
+                                    android:textStyle="normal" />
+
+                                <TextView
+                                    android:id="@+id/lblCalendarMonth"
+                                    android:layout_width="match_parent"
+                                    android:layout_height="wrap_content"
+                                    android:layout_gravity="center"
+                                    android:layout_marginLeft="5dp"
+                                    android:layout_marginRight="5dp"
+                                    android:gravity="left"
+                                    android:textColor="@color/themeWhite"
+                                    android:textSize="35sp"
+                                    android:textStyle="normal" />
+
+
+                            </LinearLayout>
+
+                            <ImageButton
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_weight="0.45"
+                                android:id="@+id/imgBtnNext"
+                                android:background="?attr/selectableItemBackground"
+                                android:src="@drawable/arrow_right"
+                                android:tint="@color/themeWhite" />
+
+
+                        </LinearLayout>
+
+                    </android.support.v7.widget.CardView>
+
+
+                    <com.prolificinteractive.materialcalendarview.MaterialCalendarView xmlns:app="http://schemas.android.com/apk/res-auto"
+                        android:id="@+id/calendarView"
+                        android:layout_width="match_parent"
+                        android:layout_height="300dp"
+                        android:background="@color/themeWhite"
+                        app:mcv_calendarMode="month"
+                        app:mcv_showOtherDates="all"
+                        app:mcv_selectionColor="@color/brownLoading"
+                        app:mcv_tileSize="match_parent"
+
+                        />
+
+                    <TextView
+                        android:id="@+id/lblTitle"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="left|center_vertical"
+                        android:layout_margin="5dp"
+                        android:layout_weight="0.5"
+                        android:gravity="left"
+                        android:text="My Schedule"
+                        android:textSize="15sp" />
+
+                    <android.support.v7.widget.RecyclerView
+                        android:id="@+id/activity_recycler_view"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                    >
+
+                    </android.support.v7.widget.RecyclerView>
+                            <TextView
+                                android:id="@+id/lblEmpty"
+                                android:layout_width="match_parent"
+                                android:layout_height="match_parent"
+                                android:layout_margin="10dp"
+                                android:gravity="center"
+                                android:text="No activity or event(s)"
+                                android:textSize="18dp"
+                                android:visibility="gone" />
+
+                        </LinearLayout>
+
+
+            </LinearLayout>
+
+        </android.support.v4.widget.NestedScrollView>
+
+
+    </android.support.v4.widget.SwipeRefreshLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+
+        >
+
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/fabMain"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"
+            android:layout_gravity="bottom|right"
+            android:layout_marginBottom="10dp"
+            android:layout_marginEnd="10dp"
+            android:gravity="bottom|right"
+            android:src="@drawable/add"
+            android:tint="@color/themeWhite"
+            app:backgroundTint="@color/laybareGreen"
+            app:background="@color/laybareGreen"
+            app:fabSize="normal">
+
+        </android.support.design.widget.FloatingActionButton>
+    </RelativeLayout>
+
+</RelativeLayout>
+
+
+
+
